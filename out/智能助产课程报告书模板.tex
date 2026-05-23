@@ -1,0 +1,364 @@
+\documentclass[UTF8,zihao=-4]{ctexart}
+
+\usepackage[a4paper,left=2.8cm,right=2.8cm,top=2.6cm,bottom=2.6cm]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+
+\graphicspath{{pic/}}
+
+\setstretch{1.35}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.2em}
+\hypersetup{hidelinks}
+
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+\titleformat{\section}{\centering\heiti\zihao{3}}{\thesection}{1em}{}
+\titleformat{\subsection}{\heiti\zihao{4}}{\thesubsection}{0.8em}{}
+\titleformat{\subsubsection}{\heiti\zihao{-4}}{\thesubsubsection}{0.6em}{}
+
+\newcommand{\blankline}{\vspace{1.2em}}
+\newcommand{\wordcount}[1]{\noindent\textbf{此部分字数：}#1\textbf{ 字}\par}
+\newcommand{\safeincludegraphics}[2][]{%
+    \IfFileExists{pic/#2}{\includegraphics[#1]{#2}}{%
+        \fbox{\parbox[c][4.5cm][c]{0.86\textwidth}{\centering 图表文件待补充：\texttt{\detokenize{pic/#2}}}}%
+    }%
+}
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \vspace*{1.5cm}
+    {\zihao{2}\heiti 集美大学\par}
+    \vspace{1.2cm}
+    {\zihao{2}\heiti 智能助学生物产业专利案例\par}
+    \vspace{0.8cm}
+    {\zihao{1}\heiti 课程报告书\par}
+    \vspace{2.0cm}
+
+    \begin{tabular}{>{\heiti}p{4cm}p{8cm}}
+        小组报告题目： & 新质生产力背景下生物产业专利转化与助学模式创新 \\
+        班级： & 待填写 \\
+        组别： & 第17组 \\
+        小组成员： & 葛福荣、蔡子荣 \\
+        软件编号： & 2511 \\
+        研究/实践方向： & 生物产业专利转化机制及新质生产力驱动下助学模式创新实践 \\
+        全文总字数： & 待统计\quad 字 \\
+    \end{tabular}
+
+    \vfill
+    {\zihao{4}2026 年 5 月\par}
+    \vspace{0.5cm}
+    {\zihao{-4}课程报告书第3版\par}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section*{第1部分 文献汇报}
+\addcontentsline{toc}{section}{第1部分 文献汇报}
+\wordcount{待统计}
+\noindent\textbf{此部分的最低字数要求1000字。}
+
+\subsection*{文献汇报}
+\addcontentsline{toc}{subsection}{文献汇报}
+
+请围绕课程方向，选择1篇专利及1篇相关期刊文献作为文献汇报的分析文献对象，以完成下面的问题回答。
+
+\subsection*{1.1 检索1个具有生物产业特色的授权专利及其专利审查意见书，结合课程的知识点分析其新颖性}
+\addcontentsline{toc}{subsection}{1.1 授权专利及审查意见书分析}
+
+\noindent\textbf{主要对应课程目标1。}
+
+\begin{table}[H]
+    \centering
+    \caption{选定专利基本信息}
+    \safeincludegraphics[width=0.92\textwidth]{tab01_patent_info.png}
+\end{table}
+
+\subsubsection*{专利名称}
+待填写。
+
+\subsubsection*{专利申请号}
+待填写。
+
+\subsubsection*{授权时间}
+待填写。
+
+\subsubsection*{选择此篇分析文献对象的缘由}
+可从智能助产、围产医学、胎心宫缩监测、产程管理、风险预测、产科护理信息化等方向说明该专利与本课程生物产业领域的关联性。
+
+\subsubsection*{新颖性分析}
+待根据权利要求、说明书和现有技术进行分析。
+
+\subsubsection*{创造性分析}
+待根据技术问题、技术方案和技术效果进行分析。
+
+\subsubsection*{实用性分析}
+待结合临床应用、设备实现、产业转化和医院使用场景进行分析。
+
+\subsection*{1.2 检索1篇具有生物产业特色的专利相关期刊论文，结合课程的知识点分析}
+\addcontentsline{toc}{subsection}{1.2 专利相关期刊论文分析}
+
+\noindent\textbf{主要对应课程目标2。}
+
+\begin{table}[H]
+    \centering
+    \caption{选定期刊文献信息}
+    \safeincludegraphics[width=0.92\textwidth]{tab02_literature_info.png}
+\end{table}
+
+\subsubsection*{分析文献对象的选择建议}
+论文题目建议含有“智能助产”“智慧产房”“胎心监护”“产程管理”“人工智能”“医疗器械”“专利分析”等类似概念。
+
+\subsubsection*{文献类型}
+请说明属于一般期刊、核心期刊论文或其他可检索文献类型。
+
+\subsubsection*{文献名称、年份与作者单位}
+待填写论文题目、发表年份、作者第一单位及数据库来源。
+
+\subsubsection*{爱国主义情怀及生物科技强国元素分析}
+可从提升母婴安全、服务国家妇幼健康战略、推动国产智能医疗器械发展、促进医学人工智能自主创新等角度展开。
+
+\newpage
+
+\section*{第2部分 小组报告}
+\addcontentsline{toc}{section}{第2部分 小组报告}
+\wordcount{待统计}
+\noindent\textbf{此部分的最低字数要求800字。建议本报告主体写作不少于2800字。}
+
+\subsection*{报告撰写上的技巧提示}
+\addcontentsline{toc}{subsection}{报告撰写上的技巧提示}
+
+课程目标1：考虑选题方面的新颖性，并结合本课程主题，针对报告书所涉及的新颖性、实用性等专利概念方面，展现书面表达能力。
+
+课程目标2：综合考虑科技服务国家需求，展现归纳总结等能力。关于书面表达能力方面，应做到论点明确、论述深刻、论证严谨，并引用多篇较新的参考文献。
+
+\subsection*{小组报告题目}
+\addcontentsline{toc}{subsection}{小组报告题目}
+
+新质生产力背景下生物产业专利转化与助学模式创新
+
+\subsection*{中文大纲}
+\addcontentsline{toc}{subsection}{中文大纲}
+
+本文拟以“新质生产力背景下生物产业专利转化与助学模式创新”为主题，在课程“智能助学生物产业专利案例”的框架下，选择智能助产相关技术作为生物产业专利分析对象。报告首先说明新质生产力、生物产业专利转化和智能助学之间的关系；其次围绕智能助产技术的原理、设备构成、临床应用、优势价值、现存问题和未来发展方向展开分析；再次结合授权专利和期刊文献，讨论其新颖性、创造性、实用性和产业转化价值；最后总结人工智能工具在课程学习、专利检索、文献整理、图表制作和报告撰写中的辅助作用，形成兼具课程要求、专业分析和实践应用价值的课程报告。
+
+\subsection*{中文关键词}
+\addcontentsline{toc}{subsection}{中文关键词}
+
+新质生产力；生物产业专利；专利转化；智能助学；智能助产；人工智能
+
+\subsection*{2.1 研究背景与选题意义}
+\addcontentsline{toc}{subsection}{2.1 研究背景与选题意义}
+
+待写作：围绕母婴安全、妇幼健康服务、产科医疗资源分布、基层助产能力、智慧医院建设和国产医疗器械发展展开。
+
+\subsection*{2.2 智能助产技术原理}
+\addcontentsline{toc}{subsection}{2.2 智能助产技术原理}
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[width=0.95\textwidth]{fig01_technology_flow.png}
+    \caption{智能助产技术原理流程图}
+\end{figure}
+
+待写作：数据采集、数据预处理、特征提取、机器学习/深度学习、临床知识规则、风险预测、预警反馈、人机协同。
+
+\subsection*{2.3 设备构成与系统架构}
+\addcontentsline{toc}{subsection}{2.3 设备构成与系统架构}
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[width=0.95\textwidth]{fig02_system_architecture.png}
+    \caption{智能助产系统架构图}
+\end{figure}
+
+待写作：硬件层、数据层、算法层、应用层和安全层；说明胎心监护仪、宫缩监测设备、可穿戴设备、床旁终端、移动护理终端、产房看板与医院信息系统之间的关系。
+
+\subsection*{2.4 临床应用场景}
+\addcontentsline{toc}{subsection}{2.4 临床应用场景}
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[width=0.95\textwidth]{fig03_clinical_scenarios.png}
+    \caption{智能助产临床应用场景}
+\end{figure}
+
+待写作：孕期风险评估、胎心宫缩智能监护、产程进展评估、分娩方式辅助决策、助产护理记录、产后风险管理、远程妇幼健康服务。
+
+\subsection*{2.5 智能助产与传统助产模式比较}
+\addcontentsline{toc}{subsection}{2.5 智能助产与传统助产模式比较}
+
+\begin{table}[H]
+    \centering
+    \caption{智能助产与传统助产模式比较}
+    \safeincludegraphics[width=0.95\textwidth]{tab03_comparison.png}
+\end{table}
+
+待写作：从风险识别、工作效率、记录质量、医患沟通、质量控制、成本和技术依赖等维度比较。
+
+\subsection*{2.6 优势价值}
+\addcontentsline{toc}{subsection}{2.6 优势价值}
+
+待写作：临床价值、护理价值、医院管理价值、产业价值和专利价值。
+
+\subsection*{2.7 专利布局与产业转化分析}
+\addcontentsline{toc}{subsection}{2.7 专利布局与产业转化分析}
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[width=0.90\textwidth]{fig04_patent_layout.png}
+    \caption{智能助产技术专利布局方向}
+\end{figure}
+
+待写作：设备结构、监测方法、算法模型、系统平台、存储介质、人机交互界面、数据安全和临床应用场景的组合保护。
+
+\subsection*{2.8 现存问题与改进路径}
+\addcontentsline{toc}{subsection}{2.8 现存问题与改进路径}
+
+\begin{table}[H]
+    \centering
+    \caption{智能助产现存问题与改进路径}
+    \safeincludegraphics[width=0.95\textwidth]{tab04_problem_solution.png}
+\end{table}
+
+待写作：数据质量、算法泛化、临床验证、可解释性、互联互通、医疗责任、隐私安全、基层推广成本。
+
+\subsection*{2.9 未来发展方向}
+\addcontentsline{toc}{subsection}{2.9 未来发展方向}
+
+待写作：多模态融合、可解释AI、区域协同平台、真实世界验证、国产软件医疗器械注册、产学研医协同、专利组合布局。
+
+\subsection*{参考文献}
+\addcontentsline{toc}{subsection}{参考文献}
+
+需要列出至少6篇中文参考文献，并在正文必要处分别标示所使用的参考文献编号。引用格式请参照《集美大学学报（自然科学版）》。中文参考文献需要能被学校图书馆提供的数据库检索到，如中国知网、万方数据等。不要引用非真实存在的参考文献。
+
+\begin{enumerate}[label={[\arabic*]}]
+    \item 待填写真实参考文献。
+    \item 待填写真实参考文献。
+    \item 待填写真实参考文献。
+    \item 待填写真实参考文献。
+    \item 待填写真实参考文献。
+    \item 待填写真实参考文献。
+\end{enumerate}
+
+\newpage
+
+\section*{第3部分 结合人工智能工具应用于本课程学习与报告书的制作}
+\addcontentsline{toc}{section}{第3部分 结合人工智能工具应用于本课程学习与报告书的制作}
+\wordcount{待统计}
+\noindent\textbf{此部分的最低字数要求200字。}
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[width=0.92\textwidth]{fig05_ai_workflow.png}
+    \caption{人工智能工具辅助课程学习与报告制作流程}
+\end{figure}
+
+待写作：说明使用了哪些人工智能工具，并举例具体说明对于学习或制作报告书所产生的帮助。可从检索式设计、资料筛选、文献摘要、报告框架、语言润色、图表草稿、查重风险提示等方面展开，同时强调真实文献和事实由人工核查。
+
+\newpage
+
+\section*{第4部分 学习过程周记}
+\addcontentsline{toc}{section}{第4部分 学习过程周记}
+
+\subsection*{小组第1位学生}
+\addcontentsline{toc}{subsection}{小组第1位学生}
+\wordcount{待统计}
+\noindent\textbf{共\quad 页。此部分的最低字数要求为500字。也可拍照并贴上自己在纸本笔记上所作的笔记，上面字数则仍填写Word内字数即可。}
+
+\subsubsection*{学习过程周记}
+\begin{longtable}{p{2.2cm}p{11.2cm}}
+\toprule
+周次 & 学习、检索、讨论与写作记录 \\
+\midrule
+第1周 & 待填写。 \\
+第2周 & 待填写。 \\
+第3周 & 待填写。 \\
+第4周 & 待填写。 \\
+第5周 & 待填写。 \\
+第6周 & 待填写。 \\
+第7周 & 待填写。 \\
+第8周 & 待填写。 \\
+\bottomrule
+\end{longtable}
+
+\subsubsection*{团队协作佐证}
+为反映讨论交流等团队协作精神，请提供与小组同学或其他同学请教或讨论问题的佐证。
+
+\subsection*{小组第2位学生}
+\addcontentsline{toc}{subsection}{小组第2位学生}
+
+可按第1位学生格式继续填写。
+
+\newpage
+
+\section*{第5部分 课程报告书总结}
+\addcontentsline{toc}{section}{第5部分 课程报告书总结}
+
+待写作：总结报告主要发现，说明智能助产技术的技术价值、临床价值、专利价值和未来发展方向，并说明小组成员在小组工作的工作分配比例。
+
+\subsection*{小组工作分配比例}
+\addcontentsline{toc}{subsection}{小组工作分配比例}
+
+\noindent\textbf{填表说明：}两位学生在各部分环节的工作分配比例总和为100；每位学生所分配到的工作比例不得为0，也可根据实际情况在备注栏进行适当补充说明。因各组能上台报告的时间有限，所以上台报告时请报告此环节部分内容即可。
+
+\begin{table}[H]
+    \centering
+    \caption{小组成员工作分配比例}
+    \begin{tabularx}{\textwidth}{lXXc}
+        \toprule
+        项目 & 第1位学生 & 第2位学生 & 合计 \\
+        \midrule
+        第1部分 文献汇报 & 待填写 & 待填写 & 100\% \\
+        第2部分 小组报告 & 待填写 & 待填写 & 100\% \\
+        第3部分 AI工具应用 & 待填写 & 待填写 & 100\% \\
+        第4部分 学习过程周记 & 待填写 & 待填写 & 100\% \\
+        第5部分 总结与排版 & 待填写 & 待填写 & 100\% \\
+        \bottomrule
+    \end{tabularx}
+\end{table}
+
+\subsection*{课程报告书统计}
+\addcontentsline{toc}{subsection}{课程报告书统计}
+
+\begin{table}[H]
+    \centering
+    \caption{课程报告书统计信息}
+    \begin{tabular}{ll}
+        \toprule
+        项目 & 数量或说明 \\
+        \midrule
+        全文页数 & 待统计 页 \\
+        全文总字数 & 待统计 字 \\
+        第2部分小组报告字数 & 待统计 字 \\
+        表的数量 & 待统计 个 \\
+        图的数量 & 待统计 项 \\
+        非小组自制图表出处 & 待填写 \\
+        参考文献数量 & 待统计 篇 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\subsection*{代表性内容说明}
+\addcontentsline{toc}{subsection}{代表性内容说明}
+
+请提供小组报告所自行制作代表性的1张图或1个表，并举一个代表性例子说明在本课程报告书中小组如何结合人工智能工具应用于本课程学习与报告书的制作。
+
+\end{document}
