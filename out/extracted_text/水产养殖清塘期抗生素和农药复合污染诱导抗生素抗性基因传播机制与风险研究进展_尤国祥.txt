@@ -1,0 +1,1022 @@
+         水资源保护
+         Water Resources Protection
+         ISSN 1004-6933,CN 32-1356/TV
+
+
+
+
+《水资源保护》网络首发论文
+
+
+题目：         水产养殖清塘期抗生素和农药复合污染诱导抗生素抗性基因传播机制与风险
+            研究进展
+作者：         尤国祥，刘晓琛，邓永恒，陈毅强，侯俊，许伊
+网络首发日期：     2026-05-21
+引用格式：       尤国祥，刘晓琛，邓永恒，陈毅强，侯俊，许伊．水产养殖清塘期抗生素和
+            农药复合污染诱导抗生素抗性基因传播机制与风险研究进展[J/OL]．水资源保
+            护. https://link.cnki.net/urlid/32.1356.tv.20260521.1044.002
+
+
+
+
+  网络首发：在编辑部工作流程中，稿件从录用到出版要经历录用定稿、排版定稿、整期汇编定稿等阶
+段。录用定稿指内容已经确定，且通过同行评议、主编终审同意刊用的稿件。排版定稿指录用定稿按照期
+刊特定版式（包括网络呈现版式）排版后的稿件，可暂不确定出版年、卷、期和页码。整期汇编定稿指出
+版年、卷、期、页码均已确定的印刷或数字出版的整期汇编稿件。录用定稿网络首发稿件内容必须符合《出
+版管理条例》和《期刊出版管理规定》的有关规定；学术研究成果具有创新性、科学性和先进性，符合编
+辑部对刊文的录用要求，不存在学术不端行为及其他侵权行为；稿件内容应基本符合国家有关书刊编辑、
+出版的技术标准，正确使用和统一规范语言文字、符号、数字、外文字母、法定计量单位及地图标注等。
+为确保录用定稿网络首发的严肃性，录用定稿一经发布，不得修改论文题目、作者、机构名称和学术内容，
+只可基于编辑规范进行少量文字的修改。
+  出版确认：纸质期刊编辑部通过与《中国学术期刊（光盘版）》电子杂志社有限公司签约，在《中国
+        》出版传播平台上创办与纸质期刊内容一致的网络版，以单篇或整期出版形式，在印刷
+学术期刊（网络版）
+                                       》是国家新闻出
+出版之前刊发论文的录用定稿、排版定稿、整期汇编定稿。因为《中国学术期刊（网络版）
+版广电总局批准的网络连续型出版物（ISSN 2096-4188，CN 11-6037/Z），所以签约期刊的网络版上网络首
+发论文视为正式出版。
+网络首发时间：2026-05-21 14:58:37    网络首发地址：https://link.cnki.net/urlid/32.1356.tv.20260521.1044.002
+
+
+
+
+                   水产养殖清塘期抗生素和农药复合污染诱导抗生素抗
+                                               性基因传播机制与风险研究进展
+                                      尤国祥 1              刘晓琛 1              邓永恒 1               陈毅强 1   侯俊 1   许伊 2*
+
+                             （1.河海大学 环境学院 浅水湖泊综合治理与资源开发教育部重点实验室；2. 河海大学 农业科学与工程学院)
+
+
+                             摘要：水产养殖清塘排水是新污染物脉冲式集中释放的关键环节，威胁河湖
+
+                   水生态健康。本文系统综述了清塘期环境介质中抗生素与农药复合污染的赋存特
+
+                   征，揭示了复合污染驱动抗生素抗性基因（ARGs）传播的三类核心机制：（1）
+
+                   抗生素与农药通过交叉抗性与共抗性效应施加协同选择压力，定向筛选耐药表
+
+                   型；（2）复合污染物介导的氧化胁迫激活细菌 SOS 应答，增强细胞膜通透性，
+
+                             （3）复合污染胁迫下的生态位填补效应驱动微生物群落
+                   提升水平基因转移频率；
+
+                   演替，促进高风险 ARGs 宿主菌富集。清塘排水脉冲式复合污染加速耐药组的跨
+
+                   介质扩散，对受纳水体造成多负荷叠加效应。建议构建耦合脉冲效应的风险评估
+
+                   模型，采用“源头替代-过程阻断-原位修复”协同防控策略，为我国水产养殖新
+
+                   污染物协同治理及绿色健康发展提供重要支撑。
+
+                             关键词：水产养殖；清塘排水；新污染物；细菌耐药；水生态安全
+
+                              Review of Propagation Mechanisms and Risks of Antibiotic
+                       Resistance Genes Induced by Combined Antibiotic and Pesticide
+                                    Pollution During Aquaculture Pond Clearing Period
+
+                             YOU Guoxiang1, LIU Xiaochen1, DENG Yongheng1, CHEN Yiqiang1, HOU Jun1, XU Yi2*
+
+                       (1. Key Laboratory of Integrated Regulation and Resources Development on Shallow Lakes of Ministry of
+
+                    Education, College of Environment, Hohai University; 2. College of Agricultural Science and Engineering, Hohai
+
+                                                                                   University）
+
+                             Abstract: Aquaculture pond clearing discharge, as a key link for the pulsed
+
+                   concentrated release of emerging contaminants, poses a significant threat to the health
+
+                   of aquatic ecosystems. This paper systematically reviews the characteristics of
+
+                   combined pollution of antibiotics and pesticides during the pond clearing period, and
+
+                   reveals three core mechanisms of antibiotic resistance genes (ARGs) propagation
+                   基金项目：中央高校基本科研业务费专项资金项目（B240201157），国家自然科学基金（42107386, 42377378, U23A2058），
+                   江苏省自然科学基金（BK20242056）
+                   第一作者：尤国祥（1990—），男，副教授，主要研究方向为河湖水质改善与生态修复。E-mail: env_ygx@hhu.edu.cn
+                   通信作者：许伊（1990—），女，副教授，主要研究方向为环境微生物学与微生物耐药性。E-mail: xuyi2022@hhu.edu.cn
+driven by combined pollution. (1) Antibiotics and pesticides exert synergistic
+
+selection pressure through cross-resistance and co-resistance effects, leading to the
+
+directional enrichment of drug-resistant phenotypes. (2) Oxidative stress induced by
+
+combined pollutants activates the bacterial SOS response, enhances cell membrane
+
+permeability, and significantly improves the efficiency of horizontal gene transfer. (3)
+
+Niche complementarity effect mediated by combined chemical stress drives microbial
+
+community succession, promoting the enrichment of high-risk ARG-carrying bacteria.
+
+The pulsed pollution characteristic of pond clearing discharge further accelerates the
+
+cross-media diffusion of the resistome, forming multi-additive effects on the receiving
+
+water bodies. Finally, this paper proposes the construction of a risk assessment model
+
+coupled with pulsed effects, and advocates the adoption of a synergistic prevention
+
+and control strategy via integrating source substitution, process blocking and in-situ
+
+remediation, which provides important supports for the synergistic governance of
+
+emerging contaminants and the green development of aquaculture in China.
+
+     Keywords: Aquaculture; Pond clearing discharge; Emerging contaminants;
+
+Bacterial resistance; Aquatic ecological security
+
+1 引言
+
+     在国家粮食安全体系中，高密度池塘养殖是优质动物蛋白的重要来源，对社
+
+会经济绿色健康发展具有不可替代的战略意义。高密度养殖模式在提高产量的同
+
+时，也带来了严峻的环境问题。为防治病害和调节水质，养殖过程中频繁使用的
+
+抗生素与农药，常因代谢不完全或外源输入而共存于养殖环境中，形成了典型的
+
+抗生素-农药复合污染[1,2]。相比于单一化学污染，这种复合污染通过协同选择压
+
+力与共抗性机制加速抗生素抗性基因（ARGs）在养殖塘中的演化传播[3,4]，威胁
+
+水生态安全与公共卫生健康。抗生素、农药及 ARGs 均已被列入新污染物范畴，
+
+深入推进新污染物治理是国家“十五五”规划中重点攻关的科技方向。因此，针
+
+对高密度池塘养殖水体中复合污染诱导的 ARGs 健康风险防控，不仅是当前环境
+
+科学领域的重大科技需求，更是持续深入推进污染防治攻坚、建设美丽中国的重
+
+要支撑。
+   监管相对薄弱的清塘期是养殖系统污染物脉冲式集中释放的关键节点。相较
+
+于河湖环境介质，高密度池塘养殖体系在清塘期呈现出显著的高丰度、高多样性
+
+及强扩散性的抗性组特征 [5] 。长期的抗生素-农药复合选择压力使池塘底泥中
+
+ARGs 显著富集，水平远超自然水体；部分抗性基因（如 sul1、tetM）的相对丰
+
+度达 10-2~10-1 copies/16S rRNA，较受纳河湖背景值高 2-3 个数量级[6,7]。清塘作
+
+业过程中水位下降与水力扰动会破坏底泥-水界面稳定性，促使底泥中累积的“耐
+
+药储存库”发生大规模再悬浮并进入水相。清塘期脉冲式集中释放的 ARGs 不仅
+
+负荷高，且常与质粒、整合子等移动遗传元件（MGEs）高度共赋存，从而显著
+
+增强水平基因转移（HGT）频率，加速耐药性在群落与介质间传播扩散，威胁水
+
+生态健康。清塘期尾水排放是我国农业农村面源污染的重要组成部分[8,9]，江苏、
+
+广东等水产养殖大省已相继出台养殖尾水排放标准，对化学需氧量（CODMn）、
+
+总氮等常规指标进行了限制，但抗生素、农药及其诱导产生的 ARGs 的污染特征
+
+与风险仍不清楚，制约河湖水体新污染物精准治理和水产养殖绿色健康发展。
+
+   本文聚焦于水产养殖清塘期这一重要时段，围绕“复合污染诱导 ARGs 传播
+
+与风险”这一关键科学问题，系统梳理了环境介质中抗生素与农药复合污染特征
+
+及 ARGs 赋存现状，阐释了复合污染通过协同选择、HGT 及群落演替驱动 ARGs
+
+传播的作用机制，解析了清塘期复合污染排放的多维度生态风险（如图 1 所示）；
+
+在此基础上，对未来的研究方向进行展望，以期为我国农业农村新污染物环境风
+
+险管控提供坚实的理论支撑。
+
+
+
+
+      图 1 抗生素-农药复合污染诱导 ARGs 及受纳水体生态风险示意图[5-7]
+ Figure 1 Schematic diagram of antibiotic-pesticide combined pollution inducing ARGs and
+                           associated aquatic ecological risks[5-7]
+
+ 2 水产养殖清塘期抗生素、农药及 ARGs 污染现状
+
+     水产养殖体系中抗生素、农药及 ARGs 等新污染物的来源与归趋复杂，涵盖
+
+ 了源于病害防治与饲料残留的抗生素、来自清塘除杂及周边农业径流输入的农
+
+ 药，以及外源带入或内源诱导产生的 ARGs[10-13]。这些新污染物进入养殖塘后经
+
+ 历吸附-解吸、沉降、再悬浮及生物富集、放大等环境行为，使得养殖末期水体、
+
+ 底泥及生物体中呈现多介质赋存特征（如表 1 所示）。
+
+ 2.1 清塘期抗生素和农药复合污染特征
+
+     水产养殖过程中大量使用抗生素是清塘期污染负荷的重要来源。据统计，到
+
+ 2030 年全球水产养殖抗菌药物使用量将达 1.36 万吨，而我国是抗生素消费大国，
+
+ 占比高达 55.9%[14]。由于抗菌药物代谢率低，约 25%~90%的抗生素以原药或活
+
+ 性代谢产物形式被排出，并随颗粒沉降在底泥中富集。监测数据显示，氟苯尼考
+
+ 作为我国年使用量达 1 万吨的第二大抗生素，在养殖水体中浓度可达 103~107
+
+ ng/L，而底泥中抗生素残留呈现出更显著的累积特征，浓度常达到 mg/kg 级别[15]。
+
+ 例如，罗非鱼网箱底泥中土霉素和恩诺沙星的最高检出浓度分别达 6.9 mg/kg 和
+
+ 2.3 mg/kg[16]，远高于上覆水体。清塘期强烈水力扰动破坏了底泥-水界面平衡，
+
+ 导致底泥中吸附的抗生素发生解吸并释放，使得排水中抗生素浓度瞬时升高。
+ Zhang 等通过对黄海周边养殖区全周期监测证实，清塘期水体抗生素总浓度激增
+
+ 至峰值，高达 9032.08 ng/L[17]。这种受水动力条件急剧变化驱动的跨界面迁移，
+
+ 导致清塘尾水呈现出显著的脉冲式排放特征。
+
+            表 1 水产养殖环境介质中抗生素、农药及 ARGs 污染的分布特征
+      Table 1 Distribution of antibiotic, pesticide, and ARG contamination in aquaculture
+
+水产养殖区域          养殖对象           环境介质            新污染物类型                    浓度水平               参考文献
+
+                中华绒螯                         抗生素（磺胺类和                  13.01~708.72
+常州水产养殖塘                        养殖尾水                                                          [5]
+               蟹、淡水鱼                            四环素类）                      ng/L
+
+               鱼类（鲤鱼、                         抗生素（喹诺酮
+无锡水产养殖塘                        养殖尾水                                   3.29~445.57 ng/L       [5]
+               鳜鱼）、虾                                类）
+黄海周边水产养        海洋养殖品                         抗生素（氟喹诺酮                 检出频率高于非
+                                 底泥                                                          [17]
+  殖区                种                         类、四环素类）                    养殖阶段
+特定养殖环境
+                      生物体组   抗生素（恩诺沙
+（实验室/统计       草鱼                           2200 μg/kg     [17]
+                       织        星）
+  数据）
+渤海周边水产养    海洋养殖品                         4.67×103~1.08×
+                       底泥      ARGs                       [18]
+  殖区              种                        107 copies/g
+                      生物体组
+ 食用水产品       罗非鱼               抗生素          58 μg/kg      [19]
+                       织
+                             有机磷农药 OPs   总浓度 32.4~429
+珠江口典型对虾
+           凡纳滨对虾      池塘水体   （敌敌畏、甲胺磷     ng/L (均值 121    [20]
+  养殖区
+                              等 25 种）         ng/L)
+                             有机磷农药 OPs   总浓度 14.5~182
+珠江口典型对虾
+           凡纳滨对虾      池塘底泥   （敌敌畏、水胺硫     ng/L (均值 46     [20]
+  养殖区
+                             磷、毒死蜱等）          ng/L)
+                             有机磷农药 OPs   总浓度 5.82~57.7
+珠江口典型对虾               生物体组
+           凡纳滨对虾             （敌敌畏、水胺硫    ng/L (均值 19.9    [20]
+  养殖区                  织
+                             磷、对硫磷等）          ng/L)
+
+    与抗生素的累积释放不同，清塘期农药污染主要源于杀虫剂与除草剂的集中
+
+ 施用及周边农田面源分散汇入。徐嘉楠等利用主成分分析等多元统计手段对水体
+
+ 及底泥进行了溯源解析，证实养殖环境中的农药残留水平直接受控于清塘除杂及
+
+ 养殖期间的药物投入量，呈现出典型的人为输入特征[20]。Gan 等通过对多种养殖
+
+ 模式进行了广域的残留调查，发现养殖水体中除草剂的总浓度范围为
+
+ 8.33~3248.45 ng/L，底泥中有机氯农药残留量最高可达 804.27 μg/kg[2]。此外，受
+
+ 周边农业面源污染汇入影响，拟除虫菊酯类农药在部分养殖水体中的残留量亦达
+
+ 到 μg/L 级别[21]。
+
+    高毒性、高疏水性农药多源输入并在底泥中持续富集、悬浮再释放，与抗生
+
+ 素在时空上重叠，形成了清塘期复合污染。一项基于改进的分散固相萃取分析表
+
+ 明，养殖底泥中磺胺类（2.2~35.0 μg/kg）、喹诺酮类（0~409.1 μg/kg）与有机磷、
+
+ 拟除虫菊酯等各类农药（0~4.9 μg/kg）普遍共存[21]。Zheng 等对长江下游全养殖
+
+ 周期进行了通量计算，发现抗生素与杀虫剂的排放通量正相关，且均受高密度养
+
+ 殖活动共同驱动[22]。Qiu 等发现农药残留不仅增加了化学毒性，还通过诱导微生
+
+ 物产生交叉抗性，加速 ARGs 传播[23]。世界卫生组织（WHO）已将 ARGs 列为
+
+ 21 世纪人类健康的最大威胁之一，而清塘期特有的脉冲式复合污染，是诱导环
+
+ 境耐药性“超级细菌”富集与传播的关键驱动力[24]。
+2.2 清塘期 ARGs 污染特征
+
+   水产养殖环境是 ARGs 的重要储存库，其分布呈现出显著的介质差异性。基
+
+于东北地区典型淡水养殖池塘的调查显示，水体中 ARGs 的总绝对丰度范围为
+
+1.68×105~2.84×108 copies/L，而底泥中则达到 1.05×108~2.35×1010 copies/g，后者
+
+比前者高出 2~4 个数量级[25]。同样，黄欣桐研究指出，江苏沿海养殖区底泥中
+
+ARGs 的平均丰度高达 2.35×108 copies/g，且随养殖年限增加而显著上升[26]，表
+
+明底泥是 ARGs 的重要蓄积场所。Liu 通过构建海水养殖沉积物微宇宙实验发现，
+
+微塑料显著提高底泥中 ARGs 丰度，并通过富集潜在宿主菌、促进塑料表面生物
+
+膜形成以及增强 HGT，加速耐药性扩散[18]。
+
+   受特定抗生素使用习惯的影响，养殖环境中 ARGs 谱系呈现出以磺胺类
+
+（sul）、四环素类（tet）和喹诺酮类（qnr）为主的特征，且与 MGEs 高度相关。
+
+刘欣等对高密度养殖系统进行了全流程监测，结果表明 sul1、sul2 和 tetA 在水体
+
+中检出率达到 100%，证实了该类基因在封闭水体中的高持久性[27]。Wu 等对太
+
+湖流域进行了跨周期对比研究发现，随着养殖周期的推进，qnrB 和 sul1 的丰度
+
+呈指数级增长，且与 I 类整合子（intI1）的丰度变化显著正相关[28]，揭示了整合
+
+子对 ARGs 增殖的驱动作用。在分子相关性验证方面，刘洋等[29]对大黄鱼养殖
+
+海域细菌群落与耐药基因进行了关联分析，发现 sul1 与 intI1 的相关系数超过
+
+0.85。上述研究表明，在养殖水体中 MGEs 所介导的水平基因转移过程是造成
+
+ARGs 高丰度并快速扩散的重要原因。
+
+   养殖水体中 ARGs 传播演化不仅由抗生素、农药所驱动，清塘活动所形成的
+
+特有的胁迫环境还会进一步加剧 ARGs 的传播扩散。为彻底杀灭病原体与寄生虫
+
+并改良底质环境，清塘期通常会集中施用强效消毒剂和环境改良剂，由此形成了
+
+高强度的理化胁迫环境[10]。在此期间，漂白粉水解产生的次氯酸会引发强氧化
+
+条件，诱导微生物产生氧化应激并激活 SOS 反应，促进 ARGs 增殖；同时，生
+
+石灰的投加会使水体 pH 值飙升至 10-12，这种剧烈的强碱性冲击会破坏细胞膜
+
+电位并增加膜通透性，从而促进微生物对外源 DNA 的摄入与转化[20]。此外，ARGs
+
+在生物介质中的环境持久性同样不容忽视。陈怡婷[30]研究发现，尽管菌-藻共生
+
+系统对抗生素去除率较高，但部分 ARGs（如 sul1）会通过吸附或胞内留存的方
+式在菌藻聚集体中发生转移与持留，最终导致清塘尾水在排放后仍存在较高的耐
+
+药性扩散风险。
+
+3 水产养殖清塘期抗生素与农药复合污染诱导 ARGs 传播机制
+
+    水产养殖清塘期高浓度化学脉冲与极端理化条件构成了多维度复合胁迫体
+
+系，其效应远超单一污染物毒性累加，增大了 ARGs 传播风险。如图 2 所示，复
+
+合污染主要通过三方面诱导环境耐药性传播：在生理遗传层面，抗生素与农药基
+
+于交叉抗性与共抗性机制施加协同选择压力，定向诱导并表达耐药型；在细胞分
+
+子层面，复合应激引发的 SOS 应答激活与细胞膜通透性增加构成了胞内调控与
+
+胞外损伤的双重驱动，显著提升 HGT 频率；在群落生态层面，高强度环境过滤
+
+效应驱动微生物群落定向演替，通过富集优势耐药宿主并清除敏感菌群，实现环
+
+境耐药组的大规模扩散。
+
+
+
+
+图 2 水产养殖清塘期复合污染诱导 ARGs 传播机制示意图。A. 选择压力下 ARGs 协同调
+  节与耐药表型；B.复合污染促进 HGT；C. 复合污染驱动微生物群落结构演替[40-43]
+ Figure 2 Schematic diagram of the mechanisms driving ARG dissemination induced by
+antibiotics and pesticides during the pond cleaning period in aquaculture. A. Coordinated
+   regulation of ARGs and microbial succession under combined selection pressure; B.
+     Promotion of horizontal gene transfer of ARGs by combined antibiotic-pesticide
+ contamination; C. Evolution of microbial community structure driven by antibiotics and
+                                     pesticides[40–43]
+
+3.1 协同选择压力
+
+    清塘期农药与抗生素残留首先通过交叉抗性（Cross-resistance）机制，在生
+理层面诱导细菌产生非特异性的防御适应[31]。许多清塘常用的杀虫剂和除草剂
+
+虽然不具备特异性抗菌靶点，但作为典型的有机异生物质，进入细菌细胞后会诱
+
+导其多药外排泵系统，如 mex、acr 基因家族的转录水平显著上调[33]。由于外排
+
+泵底物具有显著的广谱性，被激活的泵在排出农药分子的同时，能够非特异性地
+
+排出四环素、氟喹诺酮等多种抗生素，从而赋予细菌对抗生素的生理耐受性。研
+
+究证实，暴露于亚致死浓度除草剂中的大肠杆菌，其 acrAB 外排泵基因的转录水
+
+平可上调 2~4 倍[32]，导致其对四环素等抗生素的最低抑制浓度（MIC）同步升高，
+
+这种生理适应性为耐药菌在清塘期的存活提供了第一道防线。
+
+  除生理层面的适应外，共抗性（Co-resistance）机制是驱动 ARGs 在清塘期
+
+持续富集的遗传基础[33]。在养殖环境的微生物基因组中，ARGs 常与农药降解基
+
+因、重金属抗性基因或季铵盐消毒剂抗性基因共现于同一质粒、整合子或转座子
+
+等 MGEs 上[34]，这种紧密的遗传排列导致了“共选择”效应。虽然抗生素残留
+
+随养殖过程递减，但清塘期施用的农药或消毒剂仍能形成长效选择压力，诱发协
+
+同选择效应，使得细菌在抵御农药的同时保留了 ARGs。宏基因组学分析证实[31]，
+
+在受农药污染的底泥中，ARGs、农药降解基因和 intI1 等可移动元件的共现率高
+
+达 60%以上，表明复合污染通过共抗性机制强化了环境耐药组的持久性。
+
+3.2 促进基因水平转移
+
+  清塘期复合污染物所诱导的细菌 SOS 应答被认为是加速 ARGs 水平转移的
+
+重要分子通路之一[35]。喹诺酮类抗生素通过靶向 DNA 旋转酶和拓扑异构酶 IV，
+
+直接干扰 DNA 复制与拓扑结构稳态；有机磷农药及含氯消毒剂则通过诱导胞内
+
+活性氧（ROS）过量累积，产生强烈的氧化应激[36]。上述两类胁迫因子的协同作
+
+用可增强 DNA 损伤信号强度，显著降低 SOS 系统的激活阈值。SOS 通路的启动
+
+依赖 RecA 蛋白的活化，RecA 蛋白通过降解 LexA 阻遏物，从而解除对下游关键
+
+移动元件的转录抑制：一方面上调 intI1 的表达，促进基因盒的捕获与重排；另
+
+一方面激活接合性质粒上的转移操纵子，增强 IV 型分泌系统（T4SS）的组装[35]。
+
+研究表明，在复合化学胁迫下，细菌的 SOS 响应强度与接合转移频率呈正相关，
+
+ARGs 的接合转移频率可较对照组提升 1~3 个数量级[35]。
+
+  与此同时，清塘期剧烈的理化环境改变通过破坏细胞膜完整性，为 ARGs
+的跨膜转移清除了物理屏障。清塘施用的生石灰导致水体 pH 值急剧升高，破坏
+
+细胞膜电位[37]；而农药制剂中广泛添加的表面活性剂及有机溶剂会嵌入磷脂双
+
+分子层，导致膜结构损伤和通透性增加[38]。这种物理化学损伤不仅促进了供体
+
+菌与受体菌的接触，更为环境游离 DNA 进入受体菌打开了非选择性通道，显著
+
+提升了转化效率[39]。研究发现，在环境浓度表面活性剂存在的情况下，受体菌
+
+对质粒或游离 ARGs 的转化效率可增加 10 倍以上，最高可达 23 倍[40]，表明细
+
+胞膜通透性的改变是清塘期不同细胞间 ARGs 发生 HGT 的重要方面。
+
+3.3 驱动微生物群落结构演替
+
+  清塘期通常形成短时、高强度的氧化应激与复合毒性压力，对受纳水体微生
+
+物群落产生显著的环境筛选效应，并驱动群落发生定向演替。在该阶段，绝大多
+
+数对化学毒性敏感的类群，尤其是放线菌门及绿弯菌门的敏感属，因难以维持生
+
+理稳态而快速衰退甚至消亡。研究显示，在胁迫加剧的养殖后期，水体中放线菌
+
+门相对丰度可由 30%以上骤降至 3%以下[40]，并伴随群落 α 多样性显著下降。敏
+
+感菌群的规模性衰退进一步释放生态位与可利用的资源，打破原有群落稳态，为
+
+耐受类群扩张与后续群落重组提供生态空间。
+
+  敏感菌群的消亡为耐药微生物的快速增殖提供了生态契机，群落结构随之向
+
+低多样性、高抗逆性的方向演变[41]。具备多重耐药表型、增强型外排系统或高
+
+效 DNA 修复能力的类群，尤其是变形菌门与拟杆菌门中的部分优势类群，凭借
+
+其环境适应优势迅速占据空缺生态位。这些富集的优势菌群通常也是整合子、质
+
+粒等 MGEs 的重要宿主，其相对丰度的升高直接导致了环境耐药组规模性扩增。
+
+高通量测序结果显示，清塘后底泥中变形菌门的相对丰度可从养殖初期约 30%
+
+升高至 50%以上[42]；同时，该类群丰度与 sul1、tetM 等 ARGs 的丰度显著正相
+
+关，表明群落演替是清塘期 ARGs 富集与扩增的重要微生物生态学驱动机制。
+
+4 水产养殖清塘期复合污染的生态风险
+
+  与养殖周期内持续、低流量的尾水排放不同，清塘期排水作为一种典型的非
+
+连续性干扰事件，构成了短时、高强度的化学-生物复合污染脉冲。这种脉冲式
+
+排放具有显著的突发性与成分复杂性，其潜在风险源于集中投加的清塘药剂和累
+
+积性抗生素所形成的复合化学胁迫，以及诱导产生大量耐药菌与 ARGs 的生物污
+染。当这种多重负荷被集中输送至受纳水体时，会导致水生物毒性、加速抗性组
+
+级联传播、增大环境健康风险等潜在生态效应，如图 3 所示。
+
+
+
+
+    图 3 抗生素-农药复合污染诱导 ARGs 传播及潜在生态环境风险示意图[15,44-50]
+Figure 3 Schematic diagram illustrating the dissemination of ARGs induced by combined
+    antibiotic-pesticide pollution and the associated potential ecological risks[15,44-50]
+
+4.1 水生生物毒性效应
+
+   水产养殖清塘期尾水排放显著增加了受纳水体的污染负荷，形成的抗生素与
+
+农药复合脉冲通过联合毒性效应干扰受纳水体的生态平衡[43]。研究表明，拟除
+
+虫菊酯类农药与残留抗生素在复合暴露状态下，对枝角类及桡足类等关键浮游动
+
+物具有协同毒性[20,44]，导致其次级生产力大幅下降。这种由化学胁迫引发的种群
+
+锐减会触发自下而上的级联效应，阻滞由初级生产者向更高营养级生物的能量流
+
+动，进而导致受纳水体食物网结构的稳定性降低[45]。陆卞和等[9]进一步指出，抗
+
+生素、农药等新污染物可通过生物富集与营养级传递过程放大毒性强度，导致水
+
+生食物网结构失稳。此外，抗生素与农药的共同作用显著抑制了受纳水体中氨氧
+
+化细菌及反硝化细菌的代谢活性，干扰异养硝化-好氧反硝化等生物地球化学过
+
+程[46]。相关功能微生物的活性下降直接削弱了水体的脱氮能力，促进氨氮等有
+
+毒形态氮素的累积[47]。长期来看，此类功能性损伤将导致氮循环过程失衡和物
+
+质循环效率下降，推动受纳水体生态系统功能的退化。
+
+4.2 加速抗性组级联传播
+
+   清塘期尾水排放打破了养殖系统的相对封闭状态，使原本局限于池塘沉积物
+与水体中的耐药基因库向开放水域发生生物学输送，是驱动环境抗性组扩散的重
+
+要源头过程。研究表明，养殖底泥中富集的 ARGs 具有较强的环境持久性，可在
+
+水动力扰动与再悬浮作用下重新进入水相，并向下游河段及近岸海域迁移，从而
+
+突破地理隔离并显著拓展传播尺度[10,33]。可见，清塘期不仅增加 ARGs 的瞬时输
+
+入通量，也增强了其在区域尺度上的空间连通性。
+
+  在生态层面，清塘排水诱导 ARGs 在受纳水体食物网中的级联传递，构成潜
+
+在的生态与生物安全风险[48]。这种风险不仅源于抗生素与农药对微生物群落的
+
+共选压力，更在于 ARGs 可随能量流动跨营养级迁移。研究表明，进入受纳水体
+
+的高丰度 ARGs 易于在藻类等初级生产者及其附生菌中富集，继而通过食物链的
+
+转移过程向更高营养级传播扩散[49,50]。在滤食性浮游动物（如大型溞）的摄食与
+
+消化过程中，部分特定抗性基因（如 tetA）可在其肠道微生境中持续存在并发生
+
+扩增[51]。当这些浮游动物被斑马鱼等高营养级捕食者摄食后，ARGs 随之进入其
+
+体内；由于捕食者后肠区域具备微生物密度高、营养底物丰度及细胞间物理接触
+
+频繁等微生态优势，该区域往往成为驱动质粒接合与基因水平转移的活跃热点。
+
+已有研究表明，该部位的质粒接合效率较其他肠段提高约 25 倍[52]，显著放大了
+
+ARGs 的扩散风险。此类跨营养级的级联传播不仅可能扰乱水生生物的肠道稳态
+
+与免疫功能，还可能促进耐药性与机会致病菌的共富集，增加新发或再发传染病
+
+的潜在风险。抗性基因组与新兴条件致病菌的共存，使受纳水体由单一的污染受
+
+体转变为耐药性持续输出的次级源头，可通过饮用水暴露、水产品摄入及环境接
+
+触等途径进入人体，形成跨生态系统的传播链条。因此，在“One Health”理念
+
+框架下，系统评估清塘期 ARGs 的级联传递路径与放大机制，对于构建精准化水
+
+环境风险防控标准与跨部门协同治理策略具有重要理论价值与实践意义。
+
+4.3 增大环境健康风险
+
+  清塘期复合污染物的脉冲式释放突破养殖系统边界，通过食物链富集、跨宿
+
+主传播及环境介质扩散等途径，显著放大环境健康风险。在化学风险层面，拟除
+
+虫菊酯类农药及部分抗生素因具有较强亲脂性和生物富集潜力，在清塘期短时高
+
+负荷输入的驱动下，强化了其在水生食物链中的迁移与生物放大效应，进而加速
+
+在鱼虾等水产品可食组织中累积[53]。这种复合残留不仅提高人群食源性暴露概
+率，还可能通过代谢通路的交互作用增强慢性毒性与内分泌干扰等长期健康风
+
+险。在生物安全层面，抗生素与农药形成的协同选择压力，使得养殖系统内的抗
+
+性基因库得以长期维持与稳定。Huang 等在《Nature Water》发表的最新研究指
+
+出，ARGs 可在休药期后仍保持较高丰度[15]，进而通过水产品摄食进入人体肠道
+
+微生态系统，降低临床抗感染治疗的有效性，带来公共健康威胁。在环境暴露层
+
+面，清塘期尾水排放所携带的复合污染物及耐药微生物可在受纳河湖中迁移转
+
+化，并通过饮用水源地取水、地下水补给及农业灌溉等途径，增大环境健康风险
+
+      。
+[53,54]
+
+
+
+5 总结与展望
+
+          水产养殖清塘期是抗生素、农药及 ARGs 等新污染物集中释放的关键窗口，
+
+也是现阶段环境监管所忽视的高风险时段。本综述系统梳理了清塘期抗生素、农
+
+药复合污染特征，二者共存不仅带来直接的生态毒性，更通过协同选择、促进
+
+HGT 和耐药菌群富集等机制，极大地加速了 ARGs 的环境传播，构成了比传统
+
+营养盐污染物更为严峻的水生态安全挑战。
+
+          目前针对清塘期这一特定高风险时段复合污染机制及防控研究仍处于起步
+
+阶段，为支撑我国水产养殖业绿色发展及新污染物治理，亟需开展更深入研究：
+
+          （1）深化清塘期多因子协同驱动 ARGs 传播机制研究，突破现有单一污染
+
+物长期暴露效应研究的局限而转向短时高强度多因子脉冲暴露，构建清塘期强氧
+
+化强碱及高浑浊度极端理化环境的中宇宙模拟体系，探究抗生素、农药与消毒剂
+
+在不同介质中的界面行为，重点解析复合胁迫下微生物胞内 SOS 应答与群体感
+
+应系统及胞外聚合物对 ARGs 接合转化等水平转移过程的动态调控机制。
+
+          （2）构建涵盖化学浓度生物效应与基因丰度的多维耦合模型，以准确量化
+
+清塘期排水脉冲式新污染物的生态效应，绘制受纳水体风险图，建立监测与预警
+
+体系，实现对耐药风险的精准量化与溯源。
+
+          （3）集成清塘期复合污染的绿色阻控与原位修复技术体系。研发噬菌体益
+
+生菌及植物源提取物等绿色生物制剂，替代传统高毒性清塘药剂；开发针对含高
+
+浓度颗粒物尾水的生态拦截与净化技术，削减尾水中复合污染与 ARGs 负荷；针
+
+对底泥“污染库”，探索原位钝化或生物修复技术，降低污染物生物有效性及
+ARGs 释放潜力，构建源头削减、过程拦截与末端治理相结合的全链条防控体系。
+
+
+
+参考文献
+
+[1] Chen J, Sun R, Pan C, et al. Antibiotics and food safety in aquaculture[J]. Journal of
+
+     Agricultural and Food Chemistry, 2020, 68(43): 11908-11919.
+
+[2] Gan W, Zhang R, Cao Z, et al. Unveiling the hidden risks: Pesticide residues in aquaculture
+
+     systems[J]. Science of the Total Environment, 2024, 929: 172388.
+
+[3] 刘洁雪,梁萧,覃礼堂,等.漓江流域桂林市区段有机磷农药和磺胺类抗生素的复合污染及
+
+     其生态风险[J].环境科学研究,2022,35(01):60-69.(LIU J X, LIANG X, QIN L T, et al.
+
+     Co-occurrence and ecological risk of organophosphorus pesticides and sulfonamide
+
+     antibiotics in the Guilin section of the Lijiang River Basin[J]. Research of Environmental
+
+     Sciences, 2022, 35(1): 60-69.(in Chinese))
+
+[4] Iwu C D, Korsten L, Okoh A I. The incidence of antibiotic resistance within and beyond the
+
+     agricultural ecosystem: A concern for public health[J]. Microbiology open, 2020, 9(9):
+
+     e1035.
+
+[5] Zhao J, Han Y, Liu J, et al. Occurrence, distribution and potential environmental risks of
+
+     pollutants in aquaculture ponds during pond cleaning in Taihu Lake Basin, China[J]. Science
+
+     of the Total Environment, 2024, 939: 173610.
+
+[6] 刘崇万,朱晓华,杨洪生,等.江苏沿海斑点叉尾鮰养殖环境中抗生素抗性基因污染特征及
+
+     其与环境因子相关性[J].生态与农村环境学报,2025,41(12):1633-1642.( Liu C W, Zhu X H,
+
+     Yang H S, et al. Pollution characteristics of antibiotic resistance genes and their correlation
+
+     with environmental factors in aquaculture environment of channel catfish in Jiangsu coastal
+
+     areas[J]. Journal of Ecology and Rural Environment, 2025, 41(12): 1633-1642.(in Chinese))
+
+[7] Ahmad A, Kurniawan S B, Abdullah S R S, et al. Contaminants of emerging concern (CECs)
+
+     in aquaculture effluent: Insight into breeding and rearing activities, alarming impacts,
+
+     regulations, performance of wastewater treatment unit and future approaches[J].
+
+     Chemosphere, 2022, 290: 133319.
+
+[8] 王 思 如 , 杨 大 文 , 孙 金 华 , 等 . 我 国 农 业 面 源 污 染 现 状 与 特 征 分 析 [J]. 水 资 源 保
+
+     护,2021,37(4):140-147.(WANG Siru, YANG Dawen, SUN Jinhua, et al. Analysis on status
+     and characteristics of agricultural non-point source pollution in China[J]. Water Resources
+
+     Protection,2021,37(4):140-147.(in Chinese))
+
+[9] 陆卞和,王沛芳,钱进,等.农田生态系统中新污染物的生态环境效应与去除技术研究[J].水
+
+     资源保护,2025,41(3):244-254.(LU Bianhe, WANG Peifang, QIAN Jin, et al. Research on
+
+     ecological and environmental effects and removal technologies of emerging contaminants in
+
+     agricultural ecosystems[J]. Water Resources Protection,2025,41(3):244-254.(in Chinese))
+
+[10] Yan J, Zhang X, Shi X, et al. Metagenomic insights into the rapid recovery mechanisms of
+
+     prokaryotic community and spread of antibiotic resistance genes after seawater
+
+     disinfection[J]. Water Research, 2025, 271: 122887.
+
+[11] 侯俊,刘佳林,潘正国,等.改性植物单宁絮凝剂对污水中抗生素抗性基因的去除效果[J].水
+
+     资源保护,2023,39(2):244-251, 258.(HOU Jun, LIU Jialin, PAN Zhengguo, et al. Removal
+
+     effect of modified plant tannin flocculant on antibiotic resistance genes in sewage[J]. Water
+
+     Resources Protection,2023,39(2):244-251, 258.(in Chinese))
+
+[12] 胡诗瑶,王沛芳,胡斌,等.农田退水中氮磷与吡虫啉的光催化水循环协同净化试验研究[J].
+
+     河海大学学报(自然科学版),2024,52(2):35-42.(HU Shiyao, WANG Peifang, HU Bin, et al.
+
+     Experimental study on photocatalytic water-circulating synergistic purification of nitrogen,
+
+     phosphorus and imidacloprid in receding water of farmland[J]. Journal of Hohai University
+
+     (Natural Sciences),2024,52(2):35-42.(in Chinese))
+
+[13] 王沛芳,娄明月,钱进,等.农田退水净污湿地对污染物的净化效果及机理分析[J].水资源保
+
+     护 ,2020,36(5):1-10.(WANG Peifang, LOU Mingyue, QIAN Jin, et al. Analysis of
+
+     purification effect and mechanism of pollutant by the farmland drainage wetland[J]. Water
+
+     Resources Protection,2020,36(5):1-10.(in Chinese))
+
+[14] Schar D, Klein E Y, Laxminarayan R, et al. Global trends in antimicrobial use in
+
+     aquaculture[J]. Scientific reports, 2020, 10(1): 21878.
+
+[15] Huang J, Yong H, Huang J, et al. Microbial risks triggered by oral administration of
+
+     antibiotics in fish aquaculture persist long after the legally mandated antibiotic withdrawal
+
+     time[J]. Nature Water, 2025: 1-13.
+
+[16] Rico A, Oliveira R, McDonough S, et al. Use, fate and ecological risks of antibiotics applied
+
+     in tilapia cage farming in Thailand[J]. Environmental Pollution, 2014, 191: 8-16.
+[17] Zhang J, Zhang X, Zhou Y, et al. Occurrence, distribution and risk assessment of antibiotics
+
+     at various aquaculture stages in typical aquaculture areas surrounding the Yellow Sea[J].
+
+     Journal of Environmental Sciences, 2023, 126: 621-632.
+
+[18] Liu Y, Liu L, Wang X, et al. Microplastics enhance the prevalence of antibiotic resistance
+
+     genes in mariculture sediments by enriching host bacteria and promoting horizontal gene
+
+     transfer[J]. Eco-Environment & Health, 2025, 4(1): 100136.
+
+[19] Li S, Zhu Y, Zhong G, et al. Comprehensive assessment of environmental emissions, fate, and
+
+     risks of veterinary antibiotics in China: an environmental fate modeling approach[J].
+
+     Environmental Science & Technology, 2024, 58(12): 5534-5547.
+
+[20] 徐嘉楠,田亚雄,尹杰,等. 凡纳滨对虾养殖池塘环境中有机磷农药污染特征及溯源分析
+
+     [J].生态与农村环境学报 ,2025,41(05):694-704. (XU J N, TIAN Y X, YIN J, et al.
+
+     Characteristics and source analysis of organophosphorus pesticide contamination in the
+
+     environment of Litopenaeus vannamei culture ponds[J]. Journal of Ecology and Rural
+
+     Environment.(in Chinese))
+
+[21] Qian Z, Tang S, Liu Z, et al. Multiclass and multi‐residue determination of pesticides and
+
+     antibiotics in sediment from an aquacultural environment based on modified dispersive solid
+
+     ‐phase extraction[J]. Journal of Separation Science, 2024, 47(15): 2400110.
+
+[22] Zheng T, Wang P, Hu B, et al. Gross yield driving the mass fluxes of fishery drugs: Evidence
+
+     of occurrence from full aquaculture cycle in lower Yangtze River Basin[J]. Science of The
+
+     Total Environment, 2023, 903: 166581.
+
+[23] Qiu D, Ke M, Zhang Q, et al. Response of microbial antibiotic resistance to pesticides: An
+
+     emerging health threat[J]. Science of the Total Environment, 2022, 850: 158057.
+
+[24] 张顺清,柳志会,高寒,等.金属和营养盐污染下饶河沉积物细菌群落差异的主导因素及生
+
+     物标志物识别[J].水资源保护,2025,41(4):253-264.(ZHANG Shunqing, LIU Zhihui, GAO
+
+     Han, et al. Key drivers of bacterial community differences and biomarker identification in the
+
+     Raohe River sediments impacted by heavy metals and nutrients[J]. Water Resources
+
+     Protection,2025,41(4):253-264.(in Chinese))
+
+[25] 刘 萱 . 东 北 地 区 典 型 水 产 养 殖 水 中 抗 生 素 抗 性 基 因 的 分 布 研 究 [D]. 大 连 理 工 大
+
+     学,2023.(LIU X. Distribution of antibiotic resistance genes in typical aquaculture water of
+     Northeast China[D]. Dalian University of Technology, 2023.(in Chinese))
+
+[26] 黄欣桐.江苏沿海养殖生态环境中主要抗生素残留及耐药基因丰度调查[D].华中农业大
+
+     学 ,2023.(HUANG X T. Investigation of major antibiotic residues and abundance of
+
+     antibiotic resistance genes in the aquaculture ecological environment along the coast of
+
+     Jiangsu Province[D]. Huazhong Agricultural University, 2023.(in Chinese))
+
+[27] 刘欣,薛凯峋,辛会博,等. 循环水养殖系统水体中抗生素抗性基因的污染特征[J].环境工
+
+     程学报,2024,18(10):2795-2804.( LIU X, XUE K X, XIN H B, et al. Pollution characteristics
+
+     of antibiotic resistance genes in the water of recirculating aquaculture systems[J]. Chinese
+
+     Journal of Environmental Engineering, 2024, 18(10): 2795-2804.(in Chinese ))
+
+[28] Wu C, Ye H, Xu M, et al. Occurrence of antibiotics and antibiotic resistance genes at various
+
+     stages of different aquaculture modes surrounding Tai Lake, China[J]. Frontiers in
+
+     Microbiology, 2025, 16: 1543387.
+
+[29] 刘洋,饶秋华,李水根,等. 大黄鱼养殖海域水体中细菌群落结构和抗生素抗性基因分布特
+
+     征[J].中国预防兽医学报,2023,45(04):366-373.(LIU Y, RAO Q H, LI S G, et al. Distribution
+
+     characteristics of bacterial community structure and antibiotic resistance genes in the water
+
+     of Larimichthys crocea farming area[J]. Chinese Journal of Preventive Veterinary Medicine,
+
+     2023, 45(4): 366-373.(in Chinese))
+
+[30] 陈 怡 婷 . 菌 藻 共 生 系 统 降 解 抗 生 素 过 程 中 抗 性 基 因 的 归 趋 及 转 移 机 制 [D]. 广 州 大
+
+     学,2025.(CHEN Y T. Fate and transfer mechanisms of antibiotic resistance genes during
+
+     antibiotic degradation in a bacteria-algae symbiosis system[D]. Guangzhou University,
+
+     2025.(in Chinese))
+
+[31] Li Z, Junaid M, Chen G, et al. Interactions and associated resistance development
+
+     mechanisms between microplastics, antibiotics and heavy metals in the aquaculture
+
+     environment[J]. Reviews in Aquaculture, 2022, 14(2): 1028-1045.
+
+[32] Kurenbach B, Marjoshi D, Amábile-Cuevas C F, et al. Sublethal exposure to commercial
+
+     formulations of the herbicides dicamba, 2, 4-dichlorophenoxyacetic acid, and glyphosate
+
+     cause changes in antibiotic susceptibility in Escherichia coli and Salmonella enterica serovar
+
+     Typhimurium[J]. MBio, 2015, 6(2): e00009-15.
+
+[33] Chen J, Yang Y, Jiang X, et al. Metagenomic insights into the profile of antibiotic resistomes
+     in sediments of aquaculture wastewater treatment system[J]. Journal of Environmental
+
+     Sciences, 2022, 113: 345-355.
+
+[34] Pal C, Bengtsson-Palme J, Kristiansson E, et al. Co-occurrence of resistance genes to
+
+     antibiotics, biocides and metals reveals novel insights into their co-selection potential[J].
+
+     BMC genomics, 2015, 16(1): 964.
+
+[35] Beaber J W, Hochhut B, Waldor M K. SOS response promotes horizontal dissemination of
+
+     antibiotic resistance genes[J]. Nature, 2004, 427(6969): 72-74.
+
+[36] Xu Z, Li S, Ma Y, et al. Role of organophosphorus pesticides in facilitating plasmid-mediated
+
+     conjugative transfer: Efficiency and mechanisms[J]. Journal of Hazardous Materials, 2025,
+
+     487, 137318-.
+
+[37] Jin M, Liu L, Wang D, et al. Chlorine disinfection promotes the exchange of antibiotic
+
+     resistance genes across bacterial genera by natural transformation[J]. The ISME journal,
+
+     2020, 14(7): 1847-1856.
+
+[38] Bhat S V, Kamencic B, Körnig A, et al. Exposure to sub-lethal 2, 4-dichlorophenoxyacetic
+
+     acid arrests cell division and alters cell surface properties in Escherichia coli[J]. Frontiers in
+
+     microbiology, 2018, 9: 44.
+
+[39] Wang X, Du G, Qiao Z, et al. Environmental concentrations of surfactants as a trigger for
+
+     climax of horizonal gene transfer of antibiotic resistance[J]. Heliyon, 2023, 9(6).
+
+[40] Li H, Gu S, Wang L, et al. Dynamic changes of environment and gut microbial community of
+
+     litopenaeus vannamei in greenhouse farming and potential mechanism of gut microbial
+
+     community construction[J]. Fishes, 2024, 9(5): 155.
+
+[41] Liu Z, Wang P, Li J, et al. Comparative metagenomic analysis of microbial community
+
+     compositions and functions in cage aquaculture and its nearby non-aquaculture
+
+     environments[J]. Frontiers in Microbiology, 2024, 15: 1398005.
+
+[42] Shi X, Shen Z, Shao B, et al. Antibiotic resistance genes profile in the surface sediments of
+
+     typical aquaculture areas across 15 major lakes in China[J]. Environmental Pollution, 2024,
+
+     347: 123709.
+
+[43] 易 雨 君 , 丁 航 , 叶 敬 旴 . 基 于 生 态 完 整 性 的 水 生 态 健 康 评 价 研 究 综 述 [J]. 水 资 源 保
+
+     护,2024,40(5):1-10.(YI Yujun, DING Hang, YE Jingxu. Review of water ecological health
+     assessment based on ecological integrity[J]. Water Resources Protection,2024,40(5):1-10.(in
+
+     Chinese))
+
+[44] Werner I, Moran K. Effects of pyrethroid insecticides on aquatic organisms[J]. Synthetic
+
+     pyrethroids: Occurrence and behavior in aquatic environments, 2008, 991: 310-335.
+
+[45] 侯俊,赵骁,杨梓俊,等.改性植物单宁絮凝剂的除藻性能及其生态毒理学评估[J].水资源保
+
+     护 ,2025,41(1):170-177.(HOU Jun, ZHAO Xiao, YANG Zijun, et al. Algae removal
+
+     efficiency and ecotoxicological evaluation of modified plant tannin flocculant[J]. Water
+
+     Resources Protection,2025,41(1):170-177.(in Chinese))
+
+[46] Xu F, Wang Y, Shi Q, et al. Unraveling the pharmaceutical footprint and risks of combining
+
+     different aquaculture modes and tailwater treatment systems[J]. Aquaculture, 2025, 596:
+
+     741763.
+
+[47] 李轶,胡童,王琳琼,等.环丙沙星和铜复合污染下河流底质微生物群落与抗生素抗性基因
+
+     的交互关系[J].河海大学学报(自然科学版),2022,50(06):75-84.(Li Yi, Hu Tong, Wang
+
+     Linqiong, et al. Interaction between microbial community and antibiotic resistance genes in
+
+     river sediment under combined pollution of ciprofloxacin and copper[J]. Journal of Hohai
+
+     University (Natural Sciences), 2022, 50(06): 75-84.(in Chinese))
+
+[48] Zhu Y-G, Zhu D, Rillig MC, et al. Ecosystem microbiome-science[J]. mLife, 2023, 1(4):1-9.
+
+[49] Zhu D, Xiang Q, Yang X R, et al. Trophic transfer of antibiotic resistance genes in a soil
+
+     detritus food chain[J]. Environmental Science & Technology, 2019, 53:7770-7781.
+
+[50] Su H, Feng Y, Chen J, et al. Determinants of trophic cascade strength in freshwater
+
+     ecosystems: a global analysis[J]. Ecology, 2021, 102(7): e03370.
+
+[51] Lakmali Gunathilaka M D K, Bao-S, Liu X, et al. Antibiotic pollution of planktonic
+
+     ecosystems: a review focused on community analysis and the causal chain linking
+
+     individual-and community-level responses[J]. Environmental Science & Technology, 2023,
+
+     57: 1199-1213.
+
+[52] Fu-J, Yang D, Jin M, et al. Aquatic animals promote antibiotic resistance gene dissemination
+
+     in water via conjugation: Role of different regions within the zebra fish intestinal tract, and
+
+     impact on fish intestinal microbiota[J]. Molecular Ecology, 2017, 26(19): 5318-5333.
+
+[53] Amarasiri M, Sano D, Suzuki S. Understanding human health risks caused by antibiotic
+  resistant bacteria (ARB) and antibiotic resistance genes (ARG) in water environments:
+
+  Current knowledge and questions to be answered[J]. Critical Reviews in Environmental
+
+  Science and Technology, 2020, 50(19): 2016-2059.
+
+[54] 王喜华,刘泽军,王寒梅,等.典型干湿交替型湖泊湖水-地下水系统氮素迁移转化影响因素
+
+  及健康风险[J].水资源保护,2025,41(05):296-307.( Wang X H, Liu Z J, Wang H M, et al.
+
+  Influencing factors and health risks of nitrogen transport and transformation in lake
+
+  water-groundwater system in typical alternating wet and dry lakes[J]. Water Resources
+
+  Protection, 2025, 41(5): 296-307.(in Chinese))
+

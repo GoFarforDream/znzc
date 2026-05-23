@@ -1,0 +1,28 @@
+\contentsline {section}{第1部分 文献汇报}{3}{Doc-Start}%
+\contentsline {subsection}{文献汇报}{3}{section*.1}%
+\contentsline {subsection}{1.1 授权专利及审查意见书分析}{3}{section*.1}%
+\contentsline {subsection}{1.2 专利相关期刊论文分析}{6}{table.caption.2}%
+\contentsline {section}{第2部分 小组报告}{8}{table.caption.3}%
+\contentsline {subsection}{报告撰写上的技巧提示}{8}{section*.4}%
+\contentsline {subsection}{小组报告题目}{8}{section*.4}%
+\contentsline {subsection}{中文大纲}{8}{section*.4}%
+\contentsline {subsection}{中文关键词}{8}{section*.4}%
+\contentsline {subsection}{2.1 研究背景与选题意义}{8}{section*.4}%
+\contentsline {subsection}{2.2 智能水产养殖技术原理}{9}{section*.4}%
+\contentsline {subsection}{2.3 设备构成与系统架构}{11}{figure.caption.5}%
+\contentsline {subsection}{2.4 产业应用场景}{12}{figure.caption.6}%
+\contentsline {subsection}{2.5 智能水产养殖与传统养殖模式比较}{13}{figure.caption.7}%
+\contentsline {subsection}{2.6 优势价值}{14}{table.caption.8}%
+\contentsline {subsection}{2.7 专利布局与产业转化分析}{15}{table.caption.8}%
+\contentsline {subsection}{2.8 现存问题与改进路径}{16}{figure.caption.9}%
+\contentsline {subsection}{2.9 未来发展方向}{16}{table.caption.10}%
+\contentsline {subsection}{参考文献}{17}{table.caption.10}%
+\contentsline {section}{第3部分 结合人工智能工具应用于本课程学习与报告书的制作}{18}{Item.7}%
+\contentsline {section}{第4部分 学习过程周记}{20}{figure.caption.11}%
+\contentsline {subsection}{小组第1位学生：葛福荣}{20}{section*.12}%
+\contentsline {subsection}{小组第2位学生：蔡子荣}{21}{table.5}%
+\contentsline {section}{第5部分 课程报告书总结}{22}{table.5}%
+\contentsline {subsection}{2分钟口头报告提示}{22}{section*.13}%
+\contentsline {subsection}{小组工作分配比例}{23}{section*.13}%
+\contentsline {subsection}{课程报告书统计}{23}{table.caption.14}%
+\contentsline {subsection}{代表性内容说明}{23}{table.caption.15}%

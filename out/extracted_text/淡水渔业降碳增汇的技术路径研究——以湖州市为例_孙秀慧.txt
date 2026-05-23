@@ -1,0 +1,684 @@
+         中国生态农业学报(中英文)
+         Chinese Journal of Eco-Agriculture
+         ISSN 2096-6237,CN 13-1432/S
+
+
+
+
+《中国生态农业学报(中英文)》网络首发论文
+
+
+题目：         淡水渔业降碳增汇的技术路径研究——以湖州市为例
+作者：         孙秀慧，刘子飞，李飞，高翔，李雪
+收稿日期：       2026-01-23
+网络首发日期：     2026-05-11
+引用格式：       孙秀慧，刘子飞，李飞，高翔，李雪．淡水渔业降碳增汇的技术路径研究—
+            —以湖州市为例[J/OL]．中国生态农业学报(中英文).
+            https://link.cnki.net/urlid/13.1432.s.20260511.1144.002
+
+
+
+
+  网络首发：在编辑部工作流程中，稿件从录用到出版要经历录用定稿、排版定稿、整期汇编定稿等阶
+段。录用定稿指内容已经确定，且通过同行评议、主编终审同意刊用的稿件。排版定稿指录用定稿按照期
+刊特定版式（包括网络呈现版式）排版后的稿件，可暂不确定出版年、卷、期和页码。整期汇编定稿指出
+版年、卷、期、页码均已确定的印刷或数字出版的整期汇编稿件。录用定稿网络首发稿件内容必须符合《出
+版管理条例》和《期刊出版管理规定》的有关规定；学术研究成果具有创新性、科学性和先进性，符合编
+辑部对刊文的录用要求，不存在学术不端行为及其他侵权行为；稿件内容应基本符合国家有关书刊编辑、
+出版的技术标准，正确使用和统一规范语言文字、符号、数字、外文字母、法定计量单位及地图标注等。
+为确保录用定稿网络首发的严肃性，录用定稿一经发布，不得修改论文题目、作者、机构名称和学术内容，
+只可基于编辑规范进行少量文字的修改。
+  出版确认：纸质期刊编辑部通过与《中国学术期刊（光盘版）》电子杂志社有限公司签约，在《中国
+学术期刊（网络版）》出版传播平台上创办与纸质期刊内容一致的网络版，以单篇或整期出版形式，在印刷
+出版之前刊发论文的录用定稿、排版定稿、整期汇编定稿。因为《中国学术期刊（网络版）》是国家新闻出
+版广电总局批准的网络连续型出版物（ISSN 2096-4188，CN 11-6037/Z），所以签约期刊的网络版上网络首
+发论文视为正式出版。
+网络首发时间：2026-05-11 18:42:11       网络首发地址：https://link.cnki.net/urlid/13.1432.s.20260511.1144.002
+
+
+
+
+          DOI: 10.12357/cjea.20260072
+          孙秀慧, 刘子飞, 李飞, 张艳, 高翔, 李雪. 淡水渔业降碳增汇的技术路径研究——以湖州市为例[J]. 中国生态农业学报(中
+          英文), 2026, DOI: 10.12357/cjea.20260072
+          SUN X H, LIU Z F, LI F, ZHANG Y, GAO X, LI X. Technological pathways for carbon reduction and carbon sink enhancement in
+          freshwater fisheries: A case study of Huzhou City, China [J]. Chinese Journal of Eco-Agriculture, 2026, DOI: 10.12357/cjea.20260072
+
+
+
+                                         淡水渔业降碳增汇的技术路径研究
+                                                                ——以湖州市为例*
+                                       孙秀慧 1,2, 刘子飞 2,3, 李                                        飞 3, 高      翔 2, 李             雪 2**
+           (1. 上海海洋大学经济管理学院 上海 201306; 2.中国水产科学研究院 北京 100141; 3. 农业农村部淡水渔业健康养殖重点实验室/
+                         浙江省淡水水产遗传育种重点实验室/浙江省淡水水产研究所 湖州 313001)
+
+          摘      要: 在国家“双碳”目标、“两山”理念、乡村全面振兴和共同富裕等大背景下, 包括渔业在内的生物固碳具有产业生态化、
+          生态产业化和统筹推进“降碳、减污、扩绿、增长”的先天优势, 其在减排增汇和协同发展方面潜力巨大, 备受关注。为厘清
+          渔业减排增汇现状及潜力, 以助推渔业产业高质量发展, 并为践行国家“双碳”目标、“两山”理念等提供决策参考, 本文以我
+          国淡水渔业的典型区域(浙江省湖州市)为例, 基于渔业碳汇的“碳移除”核心概念, 结合碳收支关键环节及其作用逻辑, 评估
+          分析湖州市渔业碳汇和碳排放量, 并结合产业现实, 明晰其碳汇与碳排放现状, 提出其降碳增汇的技术路径。研究结果表明,
+          2023 年湖州市渔业碳汇约 2.95×105 t, 碳排放 9.81×105 t; 产业总体为碳源, 短期实现碳中和的可能性较小。结合产业现实和
+          形势, 设定符合区域渔业特征的降碳增汇目标, 即湖州市渔业设定碳达峰时间节点为 2030 年, 峰值为 1.3×106~1.4×106 t, 碳
+          中和进程目标为净碳排量 6×105~7×105 t。以上可通过降碳减污和扩绿增汇两方面, 优化养殖产品结构、推广稻渔综合种养、
+          多营养层级养殖模式、大水面生态养殖模式、养殖尾水污染治理、养殖用能清洁化、智慧渔业技术与循环水养殖模式等八大
+          技术路径协同实现。本研究设定符合渔业碳源碳汇双重属性和区域特征的产业降碳增汇目标与路径, 可充分发挥渔业自身的
+          “碳汇”优势, 助力区域和产业实现“降碳、减污、扩绿、增长”的协同。
+          关键词: 渔业碳汇; 降碳减污; 扩绿增汇; “双碳”目标; 湖州市渔业
+          中图分类号: S19
+
+              Technological pathways for carbon reduction and carbon sink enhancement in
+                        freshwater fisheries: A case study of Huzhou City, China*
+                                                 SUN Xiuhui1,2, LIU Zifei2,3, LI Fei3, GAO Xiang2, LI Xue2**
+                (1. Shanghai Ocean University, Shanghai 201306, China; 2. Research Center of Fisheries Development Strategy, Chinese Academy of
+           Fishery Sciences, Beijing 100141, China; 3. Key Laboratory of Healthy Freshwater Aquaculture, Ministry of Agriculture and Rural Affairs /
+           Key Laboratory of Freshwater Aquaculture Genetic and Breeding of Zhejiang Province / Zhejiang Institute of Freshwater Fisheries, Huzhou
+                                                                       313001, China)
+
+          Abstract: Reducing carbon emissions and enhancing carbon sinks are central to China’s ecological civilization and high-quality
+          development. Fisheries play a dual role in carbon dynamics: aquaculture inputs, energy use, and facility operations generate emissions,
+          whereas aquatic organisms and water bodies provide carbon sink potential through biomass accumulation and carbon burial. In lake-
+          intensive inland regions such as Huzhou City, freshwater fisheries are important for food security and rural development, but their city-
+
+          *
+              国家社会科学基金(25SGC195)、浙江省淡水水产研究所部省级重点实验室开放课题重大项目(ZJK202517)、国家贝类产业技术体系(CARS-49)和
+            中国水产科学研究院中央级公益性科研院所基本科研业务费(2025A010, 2023XT08, 2024TD94)资助
+          **通信作者: 李雪, 主要研究方向为渔业经济与政策。E-mail: lix1994@126.com
+            孙秀慧, 主要研究方向为渔业经济与政策。Email: m240501504@st.shou.edu.cn
+              收稿日期: 2026-01-23 接受日期: 2026-04-25
+          * This study was supported by the National Social Science Fund of China (25SGC195), Zhejiang Provincial Key Laboratory of Freshwater Aquaculture,
+              Department of Provincial Key Laboratory Open Project Major Project (ZJK202517), National Shellfish Industry Technology System (CARS-49), and
+              Chinese Academy of Fishery Sciences Central Level Public Welfare Scientific Research Institute Basic Scientific Research Business Fee (2025A010,
+            2023XT08, 2024TD94).
+          **Corresponding author, E-mail: lix1994@126.com
+              Received Jan. 23, 2026; accepted Apr. 25, 2026
+scale carbon balance and low-carbon pathways remain insufficiently quantified. This study quantitatively assesses the carbon emissions,
+carbon sinks, and net carbon balance of Huzhou’s fisheries and explores feasible pathways for emission reduction and sink
+enhancement. A city-level fishery carbon accounting framework was constructed using fisheries yearbooks, local government reports,
+and relevant literature. Emissions were estimated from energy consumption, material inputs, and production processes related to
+aquaculture and associated activities, while carbon sinks were calculated mainly from the biomass accumulation of aquaculture species,
+including fish, crustaceans, and shellfish, using established carbon conversion coefficients. Recent years were analyzed, with 2023
+used as the representative period. Results show that in 2023, Huzhou’s fishery carbon sink was approximately 2.95×10⁵ t, while carbon
+emissions reached 9.81×10⁵ t, resulting in a net carbon emission of about 6.86×10⁵ t. The sector therefore remains a net carbon source,
+and short-term net carbon balance is unlikely. Freshwater fish and crustaceans dominated both sinks and emissions, reflecting the local
+aquaculture structure. Over time, carbon sinks increased due to output expansion and species optimization, whereas emissions remained
+relatively stable. Efficiency improvement, feed optimization, and ecological aquaculture models are key measures for strengthening
+sink capacity and reducing emissions. Considering industrial realities, tailored targets for carbon reduction and sink enhancement in
+Huzhou’s fisheries are proposed: a carbon emission peak by 2030, with an estimated peak value of 1.3×10⁶−1.4×10⁶ t, and a subsequent
+net carbon balance target aiming to reduce net emissions to approximately 6×105−7×10⁵ t. To achieve these goals, eight major
+technological pathways are proposed from the perspectives of carbon reduction, pollution control, green expansion, and sink
+enhancement: optimizing aquaculture product structure, promoting integrated rice–fish farming, developing multi-trophic aquaculture
+systems, expanding ecological aquaculture in large water bodies, strengthening aquaculture tailwater pollution treatment, replacing
+conventional aquaculture energy with cleaner energy, advancing smart fishery technologies, and promoting recirculating aquaculture
+systems. This study provides quantitative evidence of the current net carbon source status of Huzhou's fisheries and highlights the
+structural and technological factors influencing carbon balance. The proposed pathways offer practical guidance for local policymakers
+and stakeholders in formulating low-carbon strategies. These findings provide quantitative evidence of the net carbon source status of
+Huzhou’s fisheries and offer practical guidance for local low-carbon fishery strategies and similar lake-based regions pursuing
+sustainable development.
+Keywords: fishery carbon sink; carbon and pollution reduction; green expansion and carbon sink enhancement; carbon peaking and
+carbon neutrality goals; fishery industry in Huzhou City
+
+   农业农村碳减排和增汇对国家碳达峰碳中和(“双碳”)目标的落地实施意义重大, 也是产业发展的必然
+要求和趋势[1-2]。作为农业农村的重要部分, 渔业具有碳源和碳汇双重属性。在国家“双碳”目标、“两山”理
+念与生态文明建设、乡村全面振兴和共同富裕等大背景下, 科学设定和推进适宜于渔业产业双重属性特征
+的降碳增汇目标, 对渔业产业持续践行“两山”理念、协同推进“降碳减污扩绿增长”, 以及助力积极稳妥推进
+“双碳”目标、推动建设共同富裕示范区等具有重要现实意义。浙江省湖州市是渔业的“传统”、优势、典型
+区, 拥有“桑基鱼塘” “鱼米之乡” “淡水渔业大市”美名。近年来, 湖州市渔业在绿色发展和践行“两山”理念
+方面积累了一定经验, 罗氏沼虾、中华绒螯蟹、龟鳖等养殖在全国具有重要地位, 探索了“产业生态化”“生
+态产业化”的路径。渔业具有碳源和碳汇双重属性, 但从养殖品种和模式来看, 湖州市渔业对能源和中间投
+入依赖仍比较大, 碳源属性显著强于碳汇属性, 是湖州市农业甚至重要产业节能减排的不容忽视的部分。
+为此, 本研究以湖州市为例, 探讨典型区域渔业降碳增汇实现路径, 以期为相关区域和产业“降碳、减污、
+扩绿、增长”提供基础参考。
+   当前, 淡水养殖系统碳排放与碳汇研究已积累一定成果。国内相关研究大致可以分为两方面: 一是渔
+业碳排放和碳汇测算。现有研究总体认为, 渔业既通过能耗、要素投入和生理作用等产生温室气体, 又通
+过参加生物碳循环和水产品捕捞移除碳[3], 具有碳源碳汇双重属性[4]。具体到湖州市主要养殖方式的池塘、
+工厂化养殖而言, 水泵、加热、增氧等设备用电, 投喂饲料、捕捞机动船舶燃油是养殖过程中的碳排放主要
+来源, 根据养殖模式、饵料系数等可形成较可靠的养殖碳排放测算思路[5]。同时, 作为湖州市主养品种(青
+草鲢鳙鲤鲫等大宗淡水鱼和贝类等)不投饵养殖, 具有固碳、削减氮磷、抑藻类、控水华等生态效应[6], 其
+中渔业碳汇效应评估尚无全面统一的方法, 目前主要以捕捞移除碳形式考察[7]。二是渔业降碳增汇的实现
+路径及协同效应。前期研究表明, 渔业碳排放量大、减排难。保护生态、践行“两山”理念要求推进渔业“双
+碳”行动。同时, 渔业的降碳增汇路径, 包括养殖生态化、种养结合、精准管理、优化结构等, 是区域开展
+保护生态、践行“两山”理念的重要手段[8]。相对于国内, 国际研究聚焦碳排放、减排策略方面, 对渔业碳汇
+的关注较少。具体而言, 生命周期评价(LCA)是碳足迹测算的主流方法, 其优势在于对特定水产养殖实践每
+个阶段的温室气体排放进行了全面考虑 [9-10]。投入产出分析(IOA)[11]以及 IPCC 碳排放方法[12]也都得到了
+采用。基于全球 93%的水产养殖数据, 计算从饲料生产到养殖全过程碳排放的研究表明, 饲料生产、养殖
+场能源、水体中鱼类排泄物和残饵分解的氧化亚氮是水产养殖碳排放的主要三方面, 同时除捕捞直接导致
+“碳移除”, 渔业还可能改变生态系统的碳循环[13]。此外, 个别关注渔业碳汇的研究认为, 包括贝类在内的渔
+业具有的碳汇效应, 可以在生态系统尺度上增汇[14-15]。
+   综上可知, 已有相关研究聚焦于渔业碳源碳汇核算方面, 可为湖州市渔业碳排放与碳汇的量化评估提
+供基础, 但在符合产业碳源碳汇双重属性特征的“双碳”目标设定及其实现路径, 尤其是充分结合产业双重
+属性协同实现“降碳减污扩绿增长”的融合研究方面存在明显不足, 在城市级淡水养殖系统的降碳减排目标
+设定及实现路径方面仍存在明显缺口。作为我国重要基础产业, 当前渔业还未根据产业特性明确提出“双碳”
+目标[6], 其重要原因之一就是研究不足。在“双碳”战略背景下, 科学评估典型淡水养殖区域的碳排放与碳汇
+现状, 设定符合产业特征的分阶段降碳增汇的成效目标, 并系统识别可行的技术路径, 是推动渔业绿色高
+质量发展亟待解决的现实命题。浙江省湖州市作为我国淡水渔业的传统优势区域, 其产业规模、养殖结构
+与生态实践均具有较强的区域代表性。为此, 论文拟从 3 方面尝试拓展: 第一, 根据已有文献和实地调查,
+结合湖州市渔业养殖模式及品种, 确定适宜南太湖区域的渔业碳源碳汇评估参数及方法, 弥补某些参数缺
+失或差异大的不足。第二, 根据渔业产业现实和案例分析, 论证提出实施降碳增汇与践行“两山”理念的学
+理逻辑, 提升包括渔业在内的产业推进降碳增汇措施的理论性。第三, 提出适宜渔业碳源和碳汇双重属性、
+偏重碳源的产业特征的降碳增汇技术路径, 弥补现有符合渔业乃至农业产业特色的降碳增汇路径研究的不
+足。
+1 材料与方法
+1.1 湖州市渔业碳源测算方法
+    考虑到湖州市渔业以淡水池塘养殖为主, 参考解绶启等[6]有关研究, 考虑核算可行性, 本研究在充分
+考量水产养殖碳排放特点的基础上, 构建湖州市渔业碳排放核算框架。经分析, 湖州市渔业碳源可分为饲
+料投喂碳排放、池塘养殖及水产苗种生产设备用电碳排放、机动渔船用油碳排放 3 大环节, 具体核算公式
+如下:
+                                           3
+
+                                   CY = ∑ 𝐶𝑖                        (1)
+                                        𝑖=1
+式中: CY 为湖州市渔业的 CO2 总排放量; Ci 为生产环节 i 的 CO2 排放量, 生产环节包括饲料投喂环节、池
+塘养殖及水产苗种生产设备用电环节和机动渔船用油环节。
+1.1.1 饲料投喂环节
+     参考解绶启等[6]与李雪等[7]的研究, 饲料成分按平均蛋白质含量 35%、综合碳含量 36%, 计算单位饲料
+投喂量的碳排放量, 并以各类水产品中需投饵养殖的产量与其饵料系数的乘积估算饲料投放总量, 具体核
+算方法见式(2):
+                            𝑛
+
+                       𝐶1 = ∑(𝑃𝑗 × fe𝑗 × 𝑚 × 44/12 × 𝑝𝑗 )           (2)
+                            𝑗=1
+式中: C1 为饲料投喂环节的碳排放量; 𝑃𝑗 为水产品 j 的产量, 数据来自 2006—2023 年各年度湖州市统计年
+鉴; fe𝑗 为水产品 j 的饵料系数[16-19]; m 为水产饲料的平均碳含量, 约 36%[20]; 44/12 为碳元素与二氧化碳的分
+子式折算系数; 𝑝𝑗 为水产品 j 中需要投饵生产的产量占该类水产品总产量的比例, 不同水产品因养殖方式
+和养殖品种特性不同, 投喂饵料的情况也有所不同, 本文根据调研情况和专家咨询, 按照虾蟹等甲壳类及
+龟鳖等其他类水产品全部需要投饵、贝类不需要投饵、青草鲢鳙鲤鲫鳊等大宗淡水鱼不投饵的养殖习惯确
+定 p。因湖州市未分品种发布鱼类各品种水产品产量, 本文按照浙江省历年相应 7 种大宗淡水鱼产量占淡
+水养殖鱼类总产量比重确定。
+1.1.2 池塘养殖及水产苗种生产设备用电环节
+     参考徐皓等[20]研究, 采用表 1 所示参数核算该环节电力消耗量, 并参考 2019 年度减排项目中国区域电
+网基准线排放因子核算用电碳排放量。核算方法见公式(3)-(4)。
+                                       2
+
+                                  𝐶2 = ∑ 𝐸ℎ 𝑒                      (3)
+                                      ℎ=1
+
+
+                         𝐸ℎ = AOℎ + CWℎ                (4)
+式中: C2 为池塘养殖及水产苗种生产设备用电环节的碳排放量; e 为电力碳排放系数, 湖州市所在华东地区
+区域电网基准线排放因子为 0.79; Eh 为不同养殖模式下的耗电量, h=1 表示淡水池塘养殖设备耗电量, h=2
+表示水产苗种工厂化养殖设备耗电量; AO 为增氧设备耗电; CW 为换水水泵耗电。AO1、CW1 与池塘养殖
+面积有关, 池塘养殖面积数据来自 2006—2023 年各年度湖州市统计年鉴; AO2、CW2 与养殖水量体积有关,
+由于缺乏养殖水体数据, 参考往年全国淡水工厂化养殖生产平均耗电强度 [6], 依据苗种生产产量计算, 苗
+种产量数据来自 2006—2023 年各年度湖州市统计年鉴数据。
+                                                      表 1 水产养殖设备主要能耗参数
+                                  Table 1 Main energy consumption parameters of aquaculture equipment
+         项目 Project                                                   设备运行情况 Equipment operation status
+       工厂化养殖-增氧                            单位空间水体投饲率为 3%, 饲料耗氧量为 0.5 kg/kg, 罗茨风机产氧 0.8 kg/kWh, 年运行 200 天
+    Factory farming-aeration        The feeding rate per unit volume of water is 3%, the oxygen consumption of feed is 0.5 kg/kg, the oxygen production
+                                                           of a Roots blower is 0.8 kg/kWh, and the annual operation is 200 days
+       工厂化养殖-换水                                                     每天换水 4 次, 流量为 30 m3/kW, 年运行 200 天
+ Factory farming-water exchange                   Change water 4 times a day, flow rate is 30 m³/kW, and the annual operation is 200 days
+            池塘-增氧                              需要增氧机的养殖面积为 80%, 每公顷池塘消耗 2.25 kWh, 每天使用 4 h, 年运行 200 天
+         Pond-aeration              Aeration equipment is required for 80% of the aquaculture area, power consumption is 2.25 kWh per hm²of the pond,
+                                                               operated 4 hours a day, and the annual operation is 200 days
+           池塘-换水                                              平均水深 1.5 m, 补水率 2%, 流量 60 m3/kW, 年运行 200 天
+      Pond-water exchange          Average water depth is 1.5 m, water replenishment rate is 2%, flow rate is 60 m³/kW, and annual operation is 200 days
+
+
+1.1.3 机动渔船用油环节
+     实地调研发现, 渔业机械主要为机动渔船, 参考岳冬冬等[21]的研究, 根据《国内机动渔船油价补助用
+油量测算参考标准》渔船补助用油系数, 即水产养殖用船补助用油系数, 确定湖州市机动渔船耗油总量, 并
+根据柴油碳排放系数, 核算该环节碳排放量, 具体核算方法见下式:
+                            𝐶3 = 𝑎𝐵𝑜1                          (5)
+式中: C3 为机动渔船用油环节的碳排放量; a 为渔船主要消耗能源(柴油)的碳排放系数[3.095 9 kg(CO2)/kg];
+B 为渔船总功率, 根据 2006—2023 年各年度湖州市统计年鉴数据确定; ol 为渔船用油系数(0.225 t/kW)[8]。
+1.2 渔业碳汇测算方法
+     参考解绶启等[6]研究, 选用碳元素法, 即利用不同水产品产量与其碳元素含量系数相乘计算不同水产
+品碳汇量, 具体核算方法见下式:
+                                                                               5
+
+                                                         CH = 44/12 ∑ 𝑃𝑗 ch𝑗                                                                       (6)
+                                                                              𝑗=1
+式中: CH为渔业汇集的 CO2 总量, 即碳汇总量; ch𝑗 为水产品 j 的碳含量, 参考解绶启等[6]的研究, 淡水鱼
+类、虾、河蟹、其他类的碳含量分别为 13.94%、11.08%、11.10%和 11.67%。
+1.3 湖州市渔业净碳情况分析逻辑
+    根据碳达峰碳中和含义和渔业产业特色, 当渔业碳排放总量在出现峰值后保持下降态势则认为产业实
+现了碳达峰; 当净碳排放量, 即碳排放总量与碳汇总量的差小于等于 0, 则认为湖州市渔业进入了碳中和
+阶段。
+2 湖州市渔业碳排放与碳汇现状分析
+2.1 碳排放及趋势分析
+    总体上 2006—2023 年湖州市碳排放量呈现持续上升态势, 未形成碳达峰趋势, 但渔业碳排放强度有所
+下降。具体而言, 研究期间, 湖州市渔业碳排放总量由 3.14×105 t 增至 9.81×105 t, 净增长 2.12 倍, 年均增
+幅达到 6.93%。这与湖州市水产养殖规模不断扩大, 产量不断增长的基本现实一致。碳排放强度呈波动下
+降趋势, 研究期间, 单位产量平均碳排放强度为 1.80 t(CO2)/t, 其中 2008 年碳排放强度最高, 达到 2.00
+t(CO2)/t, 随后伴随苗种生产增速下滑、渔业机械动力规模缩减以及水产品总产量的提升, 碳排放强度呈波
+动下降趋势, 至 2023 年降至 1.58 t(CO2)/t (图 1)。
+                                                                              120              总…
+                                                                                               总碳排放 Total carbon emissions                                                         2.4
+                                                                                               单…
+
+
+
+
+                                       总碳排放 Total carbon emissions (×104 t)
+                                                                                               碳排放强度  Carbon emission intensity
+
+
+
+
+                                                                                                                                                                                         Carbone emission intensity [t(CO2 )/t]
+                                                                              100
+                                                                                                                                                                                   2.2
+
+                                                                                  80
+
+
+
+
+                                                                                                                                                                                                    碳排放强度
+                                                                                                                                                                                   2
+                                                                                  60
+                                                                                                                                                                                   1.8
+                                                                                  40
+
+                                                                                                                                                                                   1.6
+                                                                                  20
+
+
+                                                                                  0                                                                                                1.4
+                                                                                       2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+                                                                                                                               年份 Year
+                               图 1 2006—2023 年湖州市渔业碳排放量及碳排放强度
+  Fig. 1 Carbon emissions and carbon emission intensities of the fishery sector in Huzhou City from 2006 to 2023
+
+    从碳排放环节来看, 饲料投喂是最大、最主要的碳排放环节, 其碳排放量占湖州市渔业碳排放总量的
+47.93%~61.51%, 研究期间年均占比为 51.50% (图 2)。该环节碳排放规模持续增长, 年均增长率 8.51%, 净
+增 3.01 倍。该环节碳排放的持续增长主要源自水产品总产量的持续增长, 特别是鱼类投饵品种的养殖量有
+所提高, 由 0.24×105 t 增至 2.22×105 t, 增长 841%。
+    池塘养殖及水产苗种生产设备用电环节是第二碳源, 呈波动上升态势。具体而言, 2006—2018 年受湖
+州市池塘规模的扩大影响, 用电碳排放量逐年增长, 由 1.07×105 t 增至 2.94×105 t, 年均增长率 8.76%。2019
+年以来, 该环节碳排放量逐年减少, 至 2021 年已降至 2.44×105 t, 这得益于环保督察, 池塘养殖密度和苗种
+生产规模有所下降。近两年出现小幅回升, 2023 年为 2.65×105 t。
+    机动渔船用油环节碳排放量波动上升。2006—2023 年, 渔船动力增长导致用油量增长, 碳排放量也随
+之增加, 研究期间内, 该环节 CO2 排放量由 5.61×104 t 增至 1.12×105 t, 年均增长 3.31×103 t。不过, 机动渔
+船用油环节的碳排放占湖州市渔业碳排放总量的比例整体呈波动下降趋势, 2006—2023 年, 该比例先增后
+降, 2008 年达到峰值 28.01%, 随后波动下降至 2023 年的 11.45%, 其中, 2020 年和 2021 年略有回升, 分别
+为 15.38%和 17.70%。
+
+                                                                                          池塘养殖及水产苗种生产设备用电环节 Electricity use in pond aquaculture and seed production
+                                                     120
+                                                                                          机动渔船用油环节 Fishing vessel fuel use
+           碳排放量Carbon emissions (×104 t)
+
+
+
+
+                                                                                          饲料投喂环节 Feed input
+                                                                    90
+
+
+
+                                                                    60
+
+
+
+                                                                    30
+
+
+
+                                                                              0
+                                                                                       2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+                                                                                                                                   年份 Year
+                                  图 2 2006—2023 年湖州市渔业各环节碳排放量
+         Fig. 2 Carbon emissions from different stages of fishery sector in Huzhou City from 2006 to 2023
+
+    分区域来看, 南浔区是最大的碳排放来源区, 2006—2023 年间年均排放量占湖州市碳排放总量的
+39.51%(见图 3)。其次是吴兴区和德清县, 年均碳排放占比分别为 25.01%和 20.56%; 长兴县和安吉县占比
+合计为 14.92%。这与现实吻合, 南浔区是水产总量最大的区, 各环节碳排放量均居于全市第一; 吴兴区 3
+个环节碳排放量较其他 3 区/县也处于较高水平, 特别是水产苗种生产规模和渔船机械用量较大, 碳源较为
+突出; 而德清县的碳源主要来自饲料投喂环节。
+                                              120
+                                                                        吴兴区 Wuxing District
+                                                                        南浔区 Nanxun District
+
+
+
+         碳排放量 Carbon emissions (×104 t)
+                                                                        德清县 Deqing County
+                                                           90
+                                                                        长兴县 Changxing County
+                                                                        安吉县 Anji County
+
+                                                           60
+
+
+
+                                                           30
+
+
+
+                                                           0
+                                                            2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+                                                                                                    年份 Year
+                               图 3 2006—2023 年湖州市各区域渔业碳排放量
+         Fig. 3 Carbon emissions from the fishery sector by region in Huzhou City from 2006 to 2023
+
+
+
+2.2 碳汇及结构分析
+    湖州市渔业碳汇随产能增加而持续扩大。研究期间, 湖州市碳汇总量由 2006 年的 9.25×104 t 增至 2023
+年的 2.95×105 t, 净增幅为 219.15%。从碳汇来源结构来看(见图 4), 受养殖结构影响, 鱼类是最大的碳汇品
+类。2006 年鱼类水产品形成碳汇 7.21×104 t, 贡献了全市 77.94%的渔业碳汇, 研究期间内鱼类产品始终是
+湖州市渔业结构中的主要生产对象, 特别是 2016 年以来鱼类在养殖结构中的比重较快增长, 碳汇量也随之
+扩大, 达到 26.28×104 t, 占渔业碳汇的比重增至 89.04%。甲壳类水产品在 2006 年形成碳汇 8.11×103 t, 占
+总碳汇的 8.77%, 2013 年占比降至 5.55%, 并稳定在这一水平, 2018 年开始, 甲壳类水产品碳汇占比逐步回
+升, 至 2020 年为 7.20%, 形成碳汇 1.80×104 t, 随后呈现下降态势, 至 2023 年, 占比已降至 3.61%, 当年碳
+汇量为 1.07×104 t。贝类水产品养殖量较小, 碳汇量占比始终不足 2%, 且研究期间总体呈现下降态势, 至
+2023 年已降至 0.53%, 仅形成碳汇 0.16×104 t。龟鳖等其他产品 2006 年碳汇量为 1.05×104 t , 随后波动上涨,
+至 2015 年碳汇量达到 3.10×104 t, 占比达到 17.72%; 2016 年, 养殖量开始锐减, 碳汇量随之快速下降, 2018
+年碳汇量仅为 1.46×104 t, 占比 6.60%, 随后出现小幅回升的趋势, 至 2023 年碳汇量为 2.02×104 t, 占比
+6.83%。
+                                                            40            鱼类 Fish     甲壳类 Crustaceans       贝类 Shellfish     其他 Others
+                                碳汇量 Carbon sink (×104 t)
+
+
+
+
+                                                            30
+
+
+                                                            20
+
+
+                                                            10
+
+
+                                                                0
+                                                                    2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+                                                                                                            年份 Year
+                               图 4 2006—2023 湖州市不同养殖水产品类别碳汇量
+      Fig. 4 Carbon sink of different cultured aquatic product category in Huzhou City from 2006 to 2023
+
+    从区域来看, 鱼类养殖规模最大的南浔区、德清县为最主要的碳汇地区(图 5)。其中, 南浔区碳汇增长
+最为迅速, 2006—2023 年, 其碳汇总量由 2.99×104 t 增至 11.14×104 t, 增长近 3 倍, 年均增幅达到 8.04%, 占
+全市碳汇总量的比重达到 37.73%。同期, 德清县渔业碳汇总量由 2.41×104 t 增至 8.94×104 t, 净增长 271%,
+占全市渔业碳汇总量的比重达到 30.30%; 2023 年, 德清县、南浔区 2 区总碳汇量合计占湖州市碳汇总量的
+68.03%, 其余地区年均碳汇量从高到低依次为吴兴区(5.51×104 t)、长兴县(2.90×104 t)、安吉县(1.02×104)。
+                                                                       30
+                                                                               长兴县 Changxing County
+
+
+
+
+                                            碳汇量 Carbon sink (×104 t)
+                                                                               吴兴区 Wuxing District
+                                                                               南浔区 Nanxun District
+                                                                       20      德清县 Deqing County
+                                                                               安吉县 Anji County
+
+
+                                                                       10
+
+
+
+
+                                                                        0
+                                                                         2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+                                                                                                                 年份 Year
+                                                                                            图 5 2006—2023 年湖州市各区域渔业碳汇量
+                                                                        Fig. 5 Carbon sink from fishery sector by region in Huzhou City from 2006 to 2023
+
+2.3 净碳排放及目标分析
+    湖州市渔业碳排放无达峰迹象。研究期间内, 湖州市水产品养殖规模及总产量不断增加、分品类养殖
+结构中投饵鱼类持续增长, 导致饲料投喂环节碳排放占比持续增加, 养殖用电、渔业机械用油碳排放规模
+也在波动上升, 笔者估计, 如在现有养殖结构及模式、要素投入等不发生重要变革的前提下, 湖州市渔业碳
+排放难以在 2035 年前达到峰值。根据近 5 年湖州市水产品产量增速、养殖结构变化趋势等数据进行估算,
+笔者估计, 至 2035 年湖州市碳排放总量最高可达 2×106 t 以上。
+    湖州市渔业碳排放尚未实现碳中和。受生产方式特点及生产规模扩大影响, 湖州市渔业净碳排放量居
+高不下, 由图 6 可知, 2006—2023 年湖州市渔业净碳排放量持续增加, 且速度较快, 2006 年净碳排放量为
+2.22×105 t, 最高在 2021 年增至 7.09×105 t, 年均增速高达 8%以上; 2022—2023 年出现小幅下降, 2023 年净
+碳排放量为 6.86×105 t, 仍达到了当年碳汇规模的 2 倍以上。从碳排放、碳汇强度来看, 湖州市渔业单位产
+量碳排放强度平均为 1.80 t(CO2)/t, 单位产量碳汇强度平均为 0.49 t(CO2)/t, 单位水产品碳收支严重不对等。
+在现有养殖结构、养殖模式和技术水平下, 净碳排放仍将长期处于增长态势, 碳排放总量将长期高于碳汇
+总量, 难以实现碳中和。
+    同时, 近年湖州市持续推进水产绿色健康养殖“五大行动”, 大力发展稻渔综合种养、多品种生态混养、
+陆基循环水养殖等多种养殖模式, 提升单产产量, 同时推进渔船减船等政策有效落实, 带动湖州市渔业碳
+排放强度下降, 研究期间内由最高 1.99 t(CO2)/t 降至 1.58 t(CO2)/t。故本文认为, 未来湖州市渔业很可能通
+过优化养殖结构、改进养殖模式、提升养殖及减碳技术等途径进一步降低单位产量碳排放强度, 从而推动
+渔业实现净碳排放平衡目标。
+    根据近年湖州市渔业碳排放及碳汇总量变化趋势, 结合渔业减碳技术路径预期, 本文认为, 可以将湖
+州市渔业降碳增汇成效目标定为 2060 年净碳排放量 6×105~7×105 t, 较 2023 年减少 35%以上; 渔业碳达峰
+时间为 2030 年, 峰值为 1.30×106~1.40×106 t。
+                                                                       净碳排放量 Net carbon emissions   碳排放强度 Carbon emission intensity   碳汇强度 Carbon sink intensity
+                                       80                                                                                                                          2.5
+                                                                                                                                                                         Carbon emission / sink intensity [t(CO2 )/t]
+     净碳排放量 Net carbon emissions (kt)
+
+
+
+
+                                                                                                                                                                   2.0
+                                       60
+                                                                                                                                                                                  碳排放/碳汇放强度
+
+
+
+
+                                                                                                                                                                   1.5
+                                       40
+                                                                                                                                                                   1.0
+
+                                       20
+                                                                                                                                                                   0.5
+
+
+                                       0                                                                                                                           0.0
+                                                  2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+                                                                                           年份 Year
+                       图 6 2006—2023 年湖州市渔业净碳排放量、碳排放强度及碳汇强度变化
+ Fig. 6 Changes in net carbon emissions, carbon emission intensity and carbon sink intensity of the fishery sector in
+                                          Huzhou City from 2006 to 2023
+3 渔业降碳增汇技术路径
+      渔业具有碳源碳汇双重属性, 湖州市渔业的碳排放碳汇分析进一步证实了这一观点。基于渔业碳源碳
+汇属性逻辑, 结合湖州市渔业碳排放和碳汇及净碳情况, 从两方面提出八大技术路径, 以探索增汇减排,
+实现产业的降碳、减污、扩绿、增长的协同效应。
+3.1 扩绿增汇路径
+      结合湖州市渔业以淡水鱼类和虾为主养品种、池塘养殖为主养方式的产业现实, 渔业扩绿增汇的技术
+路径主要包括优化养殖结构、稻渔综合种养(如稻渔、桑基鱼塘等)、多营养层级养殖(科学混养)和大水面生
+态渔业等。
+3.1.1 优化养殖产品结构
+      各养殖品种的碳汇参数具有明显的差异, 充分挖掘宜渔资源潜力科学优化养殖品种(如调增碳汇能力
+强的品种)可以增加总体渔业碳汇体量。唐启升等[3]研究表明, 相对于非滤食性、投饵性主要养殖品种, 滤
+食性养殖品种的移除碳、参与碳循环和沉积的能力显著更高。作为我国淡水养殖传统优势区域, 湖州市在
+滤食性的鲢鳙鱼、贝类养殖技术和资源方面拥有显著优势, 且近年因环保政策趋严退养产生的宜渔资源潜
+力较大, 如南太湖地区退养的大水面资源。对此, 湖州市可在稳定水产品“菜篮子”功能前提下, 调增滤食性
+养殖品种的比重, 重点针对潜在宜渔资源, 在资源环境调查和科学论证基础上, 不增加水体污染物负担条
+件下, 以促进水域生态恢复与保护为目标, 加大水生生物增殖放流, 优先选择投放滤食性鱼类和贝藻类,
+以及有利于水生生物多样性、增加水域碳循环的养殖品种, 提升区域内单位水产养殖面积的碳汇水平。
+3.1.2 推广稻渔综合种养
+      基于生态原理, 结合拥有的稻渔综合种养、资源禀赋与技术实践, 湖州市应积极推进稻鱼(虾、蟹、鳖)
+等综合种养循环生产模式。其特点是动植物的优势互补、系统共生, 形成稻田内的微生态链, 稻田产出的
+水产品和水稻的品质都能够得到较大幅度的改善, 可实现“一水双收”和化肥、农药的“双减”, 具有良好的经
+济、生态和社会效益。具体到降碳减污方面, 相对于水稻单作, 稻渔综合种养平均可减少化肥使用量 50％、
+减少农药使用量 30%~50.7％, 降低水稻田土壤扰动进而减少温室气体甲烷排放 7.3％~27.2％, 同时提高水
+稻田生态系统固碳能力, 使得稻渔综合种养系统土壤碳含量提高 5.9％~12.5％[22]。就湖州市而言, 其作为
+传统和典型的鱼米之乡、稻渔综合种养区, 积极开展稻渔综合种养也可以实现扩绿增汇和降碳减污的普遍
+效应。2021 年, 湖州市稻渔综合种养面积为 11200 hm2, 根据湖州市“十四五”农业农村规划, 预期 2025 年
+水稻播种面积将稳定在 53000 hm2 以上, 按照 1/3 的水稻播种面积可投放虾、蟹、鳖等实现稻渔综合种养,
+则较以 2021 年为参照, 湖州市的稻渔综合种养面积仍 57%以上增长潜力。可以说, 湖州市推广稻渔综合种
+养降低农业温室气体排放和扩大种养系统土壤碳汇的潜力巨大, 且具有科学和现实可行性。
+3.1.3 多营养层级养殖模式
+      多营养层级养殖模式是指在同一养殖水域(池塘和浅海等)内科学搭配多营养层级的水生动植物, 利用
+其养殖生态位互补的特点, 实现稳定水质、循环利用营养物质、生态防病、提升质量安全、提高养殖效益,
+同时增加对养殖排放废弃物的吸收。湖州市的水产主养品种为鱼(大宗淡水鱼、鳜鱼、鲈鱼等)、甲壳类(青
+虾、中华绒螯蟹), 小部分为贝、藻, 这些品种具有不同的营养级, 可以充分挖掘利用养殖产品的多营养级
+的互补性, 加大推广充分利用水资源、饵料及营养物的立体混养模式。此外, 湖州市还可以促进水产养殖
+与相关产业间的营养级适配, 达到资源化利用, 具体包括恢复和示范推广桑基鱼塘、鱼菜共生等种养模式
+[23]
+    , 通过“塘基种桑、桑叶喂蚕、蚕沙养鱼、鱼粪肥塘、塘泥壅桑”“鱼-肥水-菜-饵料”的生态循环路径, 以及
+内部食物链中各个营养级的生物量比例适量, 实现物质和能量的输入与输出平衡, 促进生态系统中动植物
+资源的循环利用, 实践和理论上具有减少农药化肥投入、削减氮磷富营养物质、加速碳沉积和碳移除等良
+好生态效益[24]。
+3.1.4 大水面生态养殖模式
+      大水面养殖属于淡水养殖, 主要包括湖泊养殖、水库养殖和河沟养殖, 一般而言, 该养殖模式要求水面
+面积超过 333.30 hm2。鼓励和引导不投饵、“人放天养”等养殖方式, 重点开展大水面生态养殖, 可以促进湖
+州市渔业扩绿增长及增汇。一方面, 大水面生态养殖注重生态的科学性, 有利于保护水域生态系统, 通过水
+域生态系统内部丰富的水生生物进行固碳。另一方面, 大水面生态养殖可以净化水质, 通过削减水体氮磷
+等营养物质, 抑制蓝藻、水华等问题, 形成“大鱼保水”“小鱼治水”的净水渔业, 在水域生态环境不变坏甚至
+变好的前提下, 实现增加水产品供给, 一定程度上降低社会对其他高耗能渔业生产方式的需求[25]。据调研,
+湖州市大水面潜力巨大, 以宜渔资源较多的吴兴区为例, 全区现有水域面积 277 余 hm2, 多为大水面水域,
+其中河港 79.19 hm2, 湖泊 12.09 hm2, 水库山塘 148.56 hm2, 40%以上的水域仍可进一步宜渔开发。
+3.2 降碳减污路径
+     湖州市渔业降碳减污路径主要包括尾水污染治理、冬暖大棚加温系统清洁化替代、智慧渔业减少无效
+投入(如饲药水电精准化管控)和循环水等, 其主要逻辑是通过先进养殖设施研发及技术应用, 降低渔业生
+产过程中的水、电和污染物排放等水产养殖碳排放的重要来源。
+3.2.1 养殖尾水污染治理
+     渔业养殖尾水污染物中的总氮、总磷、氨氮等水体富营养元素, 是增加水环境负担、进而产生二氧化
+碳(CO2)、甲烷(CH4)、氧化亚氮(N2O)等温室气体的主要来源。通过适宜的尾水治理模式, 削减养殖尾水中
+的氮、磷等水体富营养化物质, 具有避免水体富营养化、提升水环境碳沉积能力和提前减少二氧化碳排放
+的效果。“十三五”以来湖州市开展的养殖尾水污染治理实践证明了以上理论的科学性, 如湖州市南浔区养
+殖青虾和大口黑鲈、德清县养殖翘嘴鲌的对比实验发现, 采用“三池两坝”组合系统处理内陆池塘养殖尾水,
+水质净化效果显著, 各污染物去除率显著, 其中总溶解性物质为 48.1%~60.7%, COD 为 50.4%~60.7%, 总氮
+为 52.5%~59.2%, 总磷为 64.2%~71.5%, 氨氮为 72.1%~80.5%, 均能稳定达到 SC/T-9101-2007 排放标准[26]。
+与养成鱼采用的“三池两坝”模式的效果一样, 作为湖州市水产养殖的重要产业, 水产育苗废水生态化处理
+技术也取得显著效果。以具有代表性的罗氏沼虾育苗为例, 通过反渗透及海水电池废水生态化处理技术,
+筛选育苗废水去盐除污功能新材料、微藻及水生植物, 并建立 4 级耦合生态水质净化系统, 实现育苗尾水
+盐度处理较传统方式下降 63.8%, 总氮、总磷和 COD 分别下降 51%、43%和 32%。所以, 未来湖州市应进
+一步加快推进老旧池塘标准化升级改造, 改进排水设施, 合理配备水质净化和环保设备; 探索“三池两
+坝”“底排污”“生物净化”等多种模式, 加强池塘尾水治理。
+3.2.2 养殖用能清洁化
+     湖州市水产养殖用能清洁化的成功实践及可推广的技术主要有两方面。一是冬暖大棚加温系统清洁化
+替代。加温系统是湖州市甚至北方地区重要的养殖模式——冬季大棚的必备设施, 对其进行清洁化替代实
+质是水产养殖耗能清洁化。具体而言, 通过天然气、光伏电、热能循环等替代原有的煤、油或基于碳基的
+电力等能源消耗, 从而实现减少水产养殖过程中的温室气体排放。以浙江省湖州市的丰盛湾水产养殖有限
+公司为例, 该公司于 2016 年完成了天然气替代原有的用煤加温的设备更换及使用, 主要通过利用来源于城
+市管网系统天然气加热控制养殖用水的温度, 替代原有的煤耗, 每年可节约用煤 700~1000 t。二是水产养
+殖的光伏节能。湖州市拥有较多规模化、园区化的渔业经营主体, 充分利用园区建筑空间和部分水域面积,
+安装太阳能光伏, 可用于水产养殖耗能及其他主体经营用能。以具有代表性的湖州市弘鑫养殖公司为例,
+通过园区安装的光伏设备, 每年总发电量约 1.5×106 kWh, 减少 45.40 t 淡粉尘、61 t 标准碳, 自发自用以降
+低能耗、减少污染和增加收入。
+3.2.3 智慧渔业技术
+     智慧渔业可充分利用互联网、物联网、大数据、人工智能、卫星遥感等现代信息技术, 实现全产业链
+信息资源的收集、整合、分析及运用, 达到对饲料投喂、温度耗能、溶氧和营养物质等养殖生态环境精准
+控制, 提升资源利用效率和降碳减污的效果。基于互联网技术的智能投喂和温控系统, 对于饲、药、水、电
+的精准化管控, 可以在养殖过程中减少无效能耗投入、残饵的沉淀及氮磷等碳源污染的形成, 从而实现养
+殖投入产出效率提高和降碳减污的目的。湖州市已有渔业公司探索了该模式, 具体运用物联网管控技术,
+构建以增氧系统、紫外线杀滤系统、补光系统、水温自动化控制系统、室温自动化控制系统、养殖过程管
+理系统、数据分析系统等的自动化管理体系, 重点开展对溶氧、水温、pH、氨氮、亚硝酸等养殖环境因子
+及设备运行的全天候监测分析, 实现养殖环境参数、设备仪器的全过程、动态化、精准化和远程预警及控
+制, 取得水电资源消耗和人工成本大幅降低、尾水几乎零排放的显著效果, 据测算, 所用智慧渔业技术的二
+个车间平均每年节约用水 3600 t、养殖密度可达到每立方米水体 80~100 kg 以上、亩产收益比外塘养殖模
+式高出约 50 倍。
+3.2.4 循环水养殖模式
+     循环水养殖是通过养殖用水的循环系统及技术, 实现水资源的生态化重复利用, 进而取得水产养殖产
+出一定情况下, 水资源消耗及其附带的富营养化物质的减少。其中池塘内循环流水养殖是湖州市循环水养
+殖的主要方式, 有关对比实验表明, 池塘内循环流水养殖模式的加州鲈和鳜鱼, 辅以研发的饲料和水质调
+控技术, 亩产较传统养殖的产量提高了 13%, 而养殖污染物总氮磷削减 46.33%、总磷削减 73.81%、CODMn
+削减 59.10%, 水循环利用率达到了 65%, 同时在澳洲淡水龙虾苗的孵化方面, 通过设施研发和智能化控制
+等, 可实现 98%的水循环利用, 大大提高了资源利用效率。在华东、华中、华南等的水网地区, 针对大宗淡
+水鱼、特色淡水鱼等养殖密度高、水源水质差等特点, 构建了基于“池塘+复合人工湿地+生态沟渠”的池塘
+循环水生态养殖工程模式, 池塘水质符合《无公害水产品产地环境要求》(GB18407.4)要求, 养殖尾水循环
+利用或达标排放, 节水 60%, 减排 80%以上, 增效 25%以上, 这些技术和措施在湖州市的水产养殖循环水
+发展方面均具有现实借鉴意义。
+4 讨论
+  湖州市是我国淡水渔业的传统优势和典型代表区域, 其渔业碳排放和碳汇现状考察, 以及净碳排放的
+目标分析与降碳增汇的技术路径探索, 对我国淡水渔业及广大内陆地区深入践行大食物观和“两山”理念,
+协同推进“降碳、减污、扩绿、增长”具有广泛的借鉴意义。
+  从生态系统整体性视角审视, 渔业的碳足迹不仅取决于养殖环节的直接碳排放, 更与水域生态系统中
+的碳循环格局、食物网结构及生物多样性水平密切相关。这一发现与国际水产养殖碳足迹研究的主流观点
+和逻辑基本一致。本研究提出的多营养层级混养、稻渔综合种养等降碳增汇的实践技术路径, 其生态学本
+质在于通过优化养殖结构、增加食物链的复杂性, 延长碳在生态系统中的循环链条与停留时间, 促进碳的
+多级循环利用, 从而在生态系统整体性视角上实现“养殖固碳”与“生态护碳”的双重目标。类似的养殖模式
+已在我国许多地区得到了实践应用, 湖州传统“桑基鱼塘”模式、浙江德清淡水珍珠复合养殖系统、杭州千
+岛湖大水面生态渔业等, 均以碳多级循环利用为核心原理, 成为渔业降碳增汇的典型范例。随着此类生态
+养殖模式的规模化推广与标准化完善, 我国淡水渔业降碳增汇的实践路径将更加清晰, 减排增汇潜力有望
+得到进一步释放与提升。
+  除技术路径外, 碳汇生态价值实现机制也不可或缺。财税补贴、产品溢价、碳汇交易等制度安排, 是激
+发经营水产养殖主体参与降碳增汇积极性的关键, 比如当前我国渔业养殖碳汇尚未纳入 CCER 交易体系,
+其方法学开发与价值转化仍处于探索阶段, 需深入研究打通技术潜力向经济激励转化的“最后一公里”。
+  考虑到数据可得性、研究范围等因素, 本研究也存在一定局限性, 未来研究可从三个方向进一步深化
+与拓展。1)本研究所参考的碳汇核算方法即碳元素移出法, 虽能够满足当前淡水渔业碳核算的基本需求, 但
+对塘底沉积物等关键碳库的碳汇量核算不足, 目前尚未有统一、科学的核算方法。未来可加强塘底沉积物
+碳汇核算技术的研发与优化, 建立科学的核算标准, 并与国际同类研究开展基准对比, 提升研究结果的国
+际可比性与学术严谨性。2)开展典型低碳养殖模式的碳减排效率定量评估, 明确各类模式的适用场景与优
+化方向, 为模式的推广应用提供科学依据。3)拓展研究空间范围, 将本研究构建的渔业碳核算框架与降碳
+增汇实现路径, 推广至珠江三角洲、长江中上游、东北寒区等不同气候条件、不同养殖类型的淡水渔业生
+态区, 通过多案例比较, 提炼普适性规律与区域特化策略, 为全国渔业降碳增汇的路径实施, 提供更全面
+的理论与实践支撑。
+5 结论
+  本研究通过评估湖州市渔业碳排放与碳汇现状, 明确了湖州市水产养殖的碳排放结构及其趋势, 基于
+实地调研和专家咨询因地制宜提出了渔业降碳增汇的技术路径。湖州市近年渔业碳排放趋于下降, 但是否
+达峰仍需结合更长时间序列数据进一步判断, 同时未来产业内部实现碳中和的概率较低。这很可能意味着
+当前我国淡水渔业的碳源属性显著强于碳汇属性, 这与以水产养殖为主体的淡水渔业具有较强的人类经济
+活动属性密切相关。换言之, 当前水产养殖发展仍较大程度依赖碳基能源投入和规模扩张来提升产出, 尚
+未充分实现“降碳、减污、扩绿、增长”的协同转型。为充分发挥渔业天然的碳汇属性优势和绿色发展机遇,
+助力国家“双碳”目标和产业转型升级, 未来淡水渔业应沿着扩绿增汇和降碳减污两方面的技术路径, 持续
+推进产业绿色高质量发展, 前者主要包括优化养殖产品结构、示范推广稻渔综合种养和多营养层级、大水
+面生态养殖模式等, 后者主要有尾水污染治理、养殖用能清洁化、智慧渔业和循环水技术应用等。
+
+参考文献 References
+[1] 胡永浩, 张昆扬, 胡南燕, 等. 中国农业碳排放测算研究综述[J]. 中国生态农业学报(中英文), 2023, 31(2): 163–176
+   HU Y H, ZHANG K Y, HU N Y, et al. Review on measurement of agricultural carbon emission in China[J]. Chinese Journal of
+   Eco-Agriculture, 2023, 31(2): 163–176
+[2] 李佳佳, 王鹏鑫, 张瑞. 中国设施农业的减碳增汇效应分析——基于 1828 个县域面板数据的实证研究[J]. 中国生态农业
+   学报(中英文), 2024, 32(8): 1275–1287
+   LI J J, WANG P X, ZHANG R. Effects of protected agriculture on carbon reduction and carbon sink increase in China: An
+   empirical study based on 1828 county panel data[J]. Chinese Journal of Eco-Agriculture, 2024, 32(8): 1275–1287
+[3] 唐启升, 蒋增杰, 毛玉泽. 渔业碳汇与碳汇渔业定义及其相关问题的辨析[J]. 渔业科学进展, 2022, 43(5): 1–7
+   TANG Q S, JIANG Z J, MAO Y Z. Clarification on the definitions and its relevant issues of fisheries carbon sink and carbon
+   sink fisheries[J]. Progress in Fishery Sciences, 2022, 43(5): 1–7
+[4] 李楠楠, 陈廷贵, 刘子飞. 中国海水养殖贝类碳汇评估及交易机制研究[J]. 中国农业资源与区划, 2024, 45(8): 95–103
+     LI N N, CHEN T G, LIU Z F. Carbon sequestration assessment and exchange mechanism of mariculture shellfish in China[J].
+     Chinese Journal of Agricultural Resources and Regional Planning, 2024, 45(8): 95–103
+[5] 刘兴国, 刘兆普, 徐皓, 等. 生态工程化循环水池塘养殖系统[J]. 农业工程学报, 2010, 26(11): 237–244
+     LIU X G, LIU Z P, XU H, et al. Ecological engineering water recirculating ponds aquaculture system[J]. Transactions of the
+     Chinese Society of Agricultural Engineering, 2010, 26(11): 237–244
+[6] 解绶启, 刘家寿, 李钟杰. 淡水水体渔业碳移出之估算[J]. 渔业科学进展, 2013, 34(1): 82–89
+     XIE S Q, LIU J S, LI Z J. Evaluation of the carbon removal by fisheries and aquaculture in freshwater bodies[J]. Progress in
+     Fishery Sciences, 2013, 34(1): 82–89
+[7] 岳冬冬, 王鲁民, 方海, 等. 基于碳平衡的中国海洋渔业产业发展对策探析[J]. 中国农业科技导报, 2016, 18(4): 1–8
+     YUE D D, WANG L M, FANG H, et al. Development strategy of marine fisheries in China based on the carbon balance[J].
+     Journal of Agricultural Science and Technology, 2016, 18(4): 1–8
+[8] 李雪, 刘子飞, 赵明军, 等. 我国水产养殖与捕捞业“双碳”目标及实现路径[J]. 中国农业科技导报, 2022, 24(11): 13–26
+     LI X, LIU Z F, ZHAO M J, et al. Carbon peak and carbon neutralization goals and realization paths of the aquaculture and fishing
+     industry in China[J]. Journal of Agricultural Science and Technology, 2022, 24(11): 13–26
+[9]SUN Y, HOU H C, DONG D P, et al. Comparative life cycle assessment of whiteleg shrimp (Penaeus vannamei) cultured in
+     recirculating aquaculture systems (RAS), biofloc technology (BFT) and higher-place ponds (HPP) farming systems in China[J].
+     Aquaculture, 2023, 574: 739625
+[10]BARKHAUSEN R, ROSTEK L, MIAO Z C, et al. Combinations of material flow analysis and life cycle assessment and their
+     applicability to assess circular economy requirements in EU product regulations. A systematic literature review[J]. Journal of
+     Cleaner Production, 2023, 407: 137017
+[11]HAN J W, TAN Z X, CHEN M Z, et al. Carbon footprint research based on input–output model—a global scientometric
+     visualization analysis[J]. International Journal of Environmental Research and Public Health, 2022, 19(18): 11343
+[12]SHEN S H, YANG D, XIAO W, et al. Constraining anthropogenic CH4 emissions in Nanjing and the Yangtze River Delta, China,
+     using atmospheric CO2 and CH4 mixing ratios[J]. Advances in Atmospheric Sciences, 2014, 31(6): 1343–1352
+[13]RAY N E, BONAGLIA S, CAVAN E L, et al. Biogeochemical consequences of marine fisheries and aquaculture[J]. Nature
+     Reviews Earth & Environment, 2025, 6(3): 163–177
+[14]HE J Y, ZHU Z Y, YAN X J. The legend continues: The critical evidence showing the bivalve farming is a carbon sink with a novel
+     budget framework[J]. Reviews in Aquaculture, 2025, 17(2): e70001
+[15]CHEN X W J, ZHANG Z, PAN M J, et al. Oyster farming acts as a marine carbon dioxide removal (mCDR) hotspot for climate
+     change mitigation[J]. Proceedings of the National Academy of Sciences of the United States of America, 2025, 122(36):
+     e2504004122
+[16] 蔡德森, 史先阳, 王林, 等. 综合种养“水稻+青虾”模式初探[J]. 水产养殖, 2020, 41(9): 39–41
+     CAI D S, SHI X Y, WANG L, et al. Preliminary study on the mode of comprehensive breeding of “rice+freshwater shrimp”[J].
+     Journal of Aquaculture, 2020, 41(9): 39–41
+[17] 孔娣, 曹正华, 荆晶, 等. 不同放养密度对河蟹生长性能的影响[J]. 水产养殖, 2023, 44(5): 30–35
+     KONG D, CAO Z H, JING J, et al. Effects of different stocking densities on the growth performance of pure male river crab[J].
+     Journal of Aquaculture, 2023, 44(5): 30–35
+[18] 何建明, 陈开健, 戴振炎, 等. 中华鳖稚鳖早期饵料系数研究[J]. 现代农业科技, 2015, (17): 292–293, 298
+     HE J M, CHEN K J, DAI Z Y, et al. Study on early feed coefficient of juvenile Trionyx sinensis[J]. XianDai NongYe KeJi, 2015,
+     (17): 292–293, 298
+[19] 杨学新. 不同水平的益生菌对鲤生长性能的影响[J]. 黑龙江水产, 2023, 42(2): 122–124
+     YANG X X. Effects of different levels of probiotics on growth performance of Cyprinus carpio[J]. Northern Chinese Fisheries,
+     2023, 42(2): 122–124
+[20] 徐皓, 刘晃, 张建华, 等. 我国渔业能源消耗测算[J]. 中国水产, 2007, (11): 74–76, 78
+     XU H, LIU H, ZHANG J H, et al. Calculation of fishery energy consumption in China[J]. China Fisheries, 2007, (11): 74–76, 78
+[21] 岳冬冬, 王鲁民, 王茜, 等. 我国海洋捕捞渔业温室气体排放量估算与效率分析[J]. 山西农业科学, 2013, 41(8): 873–876
+     YUE D D, WANG L M, WANG Q, et al. GHG emissions estimation and efficiency analysis of marine fisheries[J]. Journal of
+     Shanxi Agricultural Sciences, 2013, 41(8): 873–876
+[22] 顾兴国, 吴怀民, 沈晓龙, 等. 太湖南岸桑基鱼塘投入产出效率的跨时期分析[J]. 蚕业科学, 2020, 46(2): 221–232
+     GU X G, WU H M, SHEN X L, et al. Intertemporal analysis on input-output efficiency of the mulberry-dyke and fish-pond by
+     the south bank of Taihu Lake[J]. Science of Sericulture, 2020, 46(2): 221–232
+[23] 徐琰斐, 单建军, 顾川川, 等. 菜-鱼复合设施种养系统构建与运行试验分析[J]. 农业工程学报, 2023, 39(2): 150–156
+   XU Y F, SHAN J J, GU C C, et al. Constructing and operating synergy model of aquaponic system integrated with soil-based
+   cultivation[J]. Transactions of the Chinese Society of Agricultural Engineering, 2023, 39(2): 150–156
+[24] 李天沛, 汪小旵, 丁为民, 等. 鱼菜共生系统中不同种类蔬菜对养殖尾水氮素转化的影响[J]. 农业工程学报, 2022, 38(9):
+   247–252
+   LI T P, WANG X C, DING W M, et al. Effects of different vegetables in aquaponics system on nitrogen conversion in aquaculture
+   tail water[J]. Transactions of the Chinese Society of Agricultural Engineering, 2022, 38(9): 247–252
+[25] 刘子飞, 李飞, 夏佳佳. 大水面生态渔业发展的现状、困境与对策[J]. 生态经济, 2022, 38(3): 142–148
+   LIU Z F, LI F, XIA J J. Research on development status, issues and countermeasures for ecological fishery of large-scale water[J].
+   Ecological Economy, 2022, 38(3): 142–148
+[26]崔利锋. 水产养殖尾水处理技术模式[M]. 北京: 中国农业出版社, 2022
+   CUI L F. Technical Model of Aquaculture Tail Water Treatment[M]. Beijing: China Agriculture Press, 2022
+
